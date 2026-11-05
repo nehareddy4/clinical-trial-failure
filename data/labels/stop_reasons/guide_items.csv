@@ -1,0 +1,17 @@
+n_trials,text,v0,n_v0_matches,primary_reason,enrollment_problem,stratum,N_h,n_h,weight,role,split,item_id
+1,Business decision (not due to safety reason).,safety,2,business,N,guide,16,16,1,guide,guide,GX01
+63,COVID-19,covid,1,covid,N,guide,16,16,63,guide,guide,GX02
+1,Drug availability,other,0,operational,N,guide,16,16,1,guide,guide,GX03
+47,Futility,efficacy,1,efficacy,N,guide,16,16,47,guide,guide,GX04
+10,Investigator decision,other,0,unclear,N,guide,16,16,10,guide,guide,GX05
+1,"Lack of accrual and funding expires in June, 2014.",enrollment,2,enrollment,Y,guide,16,16,1,guide,guide,GX06
+124,Lack of funding,funding,1,funding,N,guide,16,16,124,guide,guide,GX07
+1,No patient enter this study.,other,0,enrollment,Y,guide,16,16,1,guide,guide,GX08
+42,PI left institution,pi_or_site,1,operational,N,guide,16,16,42,guide,guide,GX09
+1,Recruitment stopped due to lack of research assistant,enrollment,1,operational,N,guide,16,16,1,guide,guide,GX10
+87,See termination reason in detailed description.,other,0,unclear,N,guide,16,16,87,guide,guide,GX11
+282,Slow accrual,enrollment,1,enrollment,Y,guide,16,16,282,guide,guide,GX12
+1,Slow enrollment and PI departure,enrollment,2,enrollment,Y,guide,16,16,1,guide,guide,GX13
+1,Slow inclusion rate (partly due to Covid-19),enrollment,2,enrollment,Y,guide,16,16,1,guide,guide,GX14
+192,Sponsor decision,business,1,business,N,guide,16,16,192,guide,guide,GX15
+1,Terminated due to liver findings,other,0,safety,N,guide,16,16,1,guide,guide,GX16

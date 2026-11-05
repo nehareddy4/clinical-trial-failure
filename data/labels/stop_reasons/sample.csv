@@ -1,0 +1,506 @@
+item_id,n_trials,text,v0,n_v0_matches,stratum,N_h,n_h,weight,role,assigned_to,split
+SR001,1,Obtained results were not good. Protocol was proved ineffective.,other,0,other,4011,120,33.425,calibration,all,dev
+SR002,1,Significant difference at interim analysis,efficacy,1,efficacy,751,35,21.457142857142856,calibration,all,dev
+SR003,1,"with 2/3 of the data collected, we had to terminate the study because of COVID19.",covid,1,covid,621,35,17.742857142857144,calibration,all,dev
+SR004,1,Pfizer released from post-marketing commitment and study terminated because too few patients in the age group; not because of efficacy or safety issues.,safety,2,safety,851,40,21.275,calibration,all,dev
+SR005,1,the study was terminated due to medication supply issue from current manufacturer,other,0,other,4011,120,33.425,calibration,all,dev
+SR006,1,This is because Medpacto decided to modify its development strategy as the business and development environment changed.,business,1,business,724,35,20.685714285714287,calibration,all,dev
+SR007,1,Due to DLTs,other,0,other,4011,120,33.425,calibration,all,dev
+SR008,1,Exposure of these high-risk patients to clinic or in-person visits during the pandemic presented an unacceptable risk to their health,covid,1,covid,621,35,17.742857142857144,calibration,all,dev
+SR009,1,Participants no longer receiving intervention,other,0,other,4011,120,33.425,calibration,all,dev
+SR010,1,Completed,other,0,other,4011,120,33.425,unique,sushma,test
+SR011,1,Ethics Committee concerns.,other,0,other,4011,120,33.425,unique,manish,dev
+SR012,1,"Due to COVID-19 and great challenges during patient enrolment period, current status of this study is far behind the plan. The study cannot be completed according to the plan. Sanofi decides to terminate the study upon comprehensive assessment.",enrollment,2,enrollment_multi,1437,80,17.9625,calibration,all,dev
+SR013,1,The study was terminated following review of safety data.,safety,1,safety,851,40,21.275,calibration,all,dev
+SR014,1,STUDY HALTED DUE TO FINANCIAL CONTRAINTS,funding,1,funding,649,35,18.542857142857144,calibration,all,dev
+SR015,1,Problems with the number of participants,other,0,other,4011,120,33.425,unique,sushma,test
+SR016,1,Accrual was poor at two other sites and manuscript was published which describing another study which accomplished the goals of this project.,enrollment,1,enrollment_single,3605,70,51.5,calibration,all,dev
+SR017,1,Study closed to accrual early due to side effects of study drug.,enrollment,2,enrollment_multi,1437,80,17.9625,calibration,all,dev
+SR018,1,"Study is no longer necessary (outmoded, outdated, science has changed)",other,0,other,4011,120,33.425,unique,shweta,dev
+SR019,1,PI departure from coordinating institution,pi_or_site,1,pi_or_site,466,30,15.533333333333333,calibration,all,dev
+SR020,1,Participant relapses led to abrupt stop of study.,other,0,other,4011,120,33.425,unique,shweta,test
+SR021,1,"Recruitment difficulties (due to Covid), no difference found between study arms",enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR022,1,Feasibility (barriers to implantation within the institution),other,0,other,4011,120,33.425,unique,manish,test
+SR023,1,In order to ensure patients and research staff safety due to COVID-19 pandemic,covid,3,covid,621,35,17.742857142857144,unique,sushma,dev
+SR024,1,stopped by the sponsor,business,1,business,724,35,20.685714285714287,calibration,all,dev
+SR025,1,"The study was not completed, the funding sponsor lost interest.",funding,1,funding,649,35,18.542857142857144,calibration,all,dev
+SR026,1,Temporary halt due to COVID-19 pandemic,covid,1,covid,621,35,17.742857142857144,unique,shweta,test
+SR027,1,PI no longer at NYUMC,pi_or_site,1,pi_or_site,466,30,15.533333333333333,calibration,all,dev
+SR028,1,"Based on a Simon 2-stage design, this study did not meet response criteria to proceed to stage 2.",other,0,other,4011,120,33.425,unique,shweta,test
+SR029,1,Study not progressing toward scientific goals,other,0,other,4011,120,33.425,unique,sushma,dev
+SR030,1,Study terminated on 04Oct2013 for business reasons after being on hold for 10 months. Early termination was not due to safety concerns.,safety,2,safety,851,40,21.275,overlap,all,test
+SR031,1,The study was stopped because of loss of funding and no safety issues,safety,2,safety,851,40,21.275,unique,neha,test
+SR032,1,The study was stopped after completing 2 cohorts instead of the intended 3 cohorts. This was due to logistical issues and budget-related issues (timing of being able to spend the funds).,funding,1,funding,649,35,18.542857142857144,unique,shweta,test
+SR033,1,former PI left institute,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,sushma,test
+SR034,1,The pandemic interefered with the progresion of study activity.,covid,1,covid,621,35,17.742857142857144,unique,shweta,test
+SR035,1,"Change in staffing structure, no longer fit original study design",pi_or_site,1,pi_or_site,466,30,15.533333333333333,overlap,all,test
+SR036,1,Sponsor's decision due to negative result of Phase 3 study TH-CR-406/SARC021,business,1,business,724,35,20.685714285714287,unique,manish,test
+SR037,1,Re-initiate a new trial per the discussion with FDA,other,0,other,4011,120,33.425,unique,manish,test
+SR038,1,enrollment pause,enrollment,1,enrollment_single,3605,70,51.5,calibration,all,dev
+SR039,1,not enough particpants,other,0,other,4011,120,33.425,unique,sushma,dev
+SR040,1,"Sponsor business decision: enrollment closed after the Phase 1 dose escalation, before an MTD was reached. The Phase 2 portion was not conducted.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,dev
+SR041,1,Study recruitment was terminated on 14 June 2016 due to a Pfizer business decision. This study was not terminated for reasons of safety.,enrollment,3,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR042,1,Sponsor decision; not safety related,safety,2,safety,851,40,21.275,unique,manish,test
+SR043,1,Company decision; No safety or efficacy concerns (see detailed description),safety,3,safety,851,40,21.275,unique,sushma,test
+SR044,1,Covid-19 quarantines and closures prevented recruitment and assessment of participants.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,dev
+SR045,2,Lack of patient accruals.,enrollment,1,enrollment_single,3605,70,103.0,unique,manish,test
+SR046,1,Potential AE,other,0,other,4011,120,33.425,unique,neha,test
+SR047,1,Because of low recruitment rates,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR048,42,Sponsor's decision,business,1,frequent,20,20,42.0,unique,shweta,test
+SR049,1,Arm C rolled into parallel study; Arms A and B halted for greater efficacy in Arm C,efficacy,1,efficacy,751,35,21.457142857142856,calibration,all,dev
+SR050,2,The study terminated for safety reasons.,safety,1,safety,851,40,42.55,unique,shweta,test
+SR051,1,The surgical team has difficulty to find level 1 and 2 fusions for the study.,other,0,other,4011,120,33.425,unique,neha,test
+SR052,3,Terminated per PI's request,pi_or_site,1,pi_or_site,466,30,46.6,unique,sushma,test
+SR053,2,PI has left UHN. This study is no longer running at UHN.,pi_or_site,1,pi_or_site,466,30,31.066666666666666,unique,manish,dev
+SR054,1,Study reached pre-determined futility criteria following interim analysis. No safety concerns were noted.,safety,2,safety,851,40,21.275,unique,manish,dev
+SR055,63,Business reasons,business,1,frequent,20,20,63.0,unique,manish,test
+SR056,1,Could not continue enrollment due to discontinuation of funding,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR057,1,"On 3/15/2020 study visits were suspended due to COVID-19 pandemic. With safety concerns surrounding COVID-19 and difficulty recruiting, the investigators decided to close enrollment 10/16/2020 after interim data were reviewed by the DSMB and NIH.",enrollment,3,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR058,1,Unafavourable toxicity profile,safety,1,safety,851,40,21.275,unique,manish,test
+SR059,1,Study stopped for procedural difficulties and lack of personnel,other,0,other,4011,120,33.425,unique,shweta,test
+SR060,2,change in procedure,other,0,other,4011,120,66.85,unique,neha,dev
+SR061,1,Discontinuation of this study was based on Novartis decision to discontinue development of fingolimod for the treatment of ADON,other,0,other,4011,120,33.425,unique,sushma,test
+SR062,1,Futility was met.,efficacy,1,efficacy,751,35,21.457142857142856,unique,manish,test
+SR063,1,Stop premature due to futility,efficacy,1,efficacy,751,35,21.457142857142856,unique,sushma,test
+SR064,1,The study was terminated due to a business decision.,business,1,business,724,35,20.685714285714287,overlap,all,test
+SR065,1,Lack of efficacy caused enrollment to be stopped at the end of dose escalation,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR066,1,Discontinuing the study because of COVID-19,covid,1,covid,621,35,17.742857142857144,unique,shweta,test
+SR067,1,Budget/Funding,funding,1,funding,649,35,18.542857142857144,unique,manish,test
+SR068,1,Lack of response to recruitment,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR069,1,Principal Investigator left institution and not enough resources to support at MTF,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,shweta,test
+SR070,1,The tests have been completed,other,0,other,4011,120,33.425,unique,neha,test
+SR071,1,Due to inclusion problems (not recruting enough participants) recruiting participants has halted prematurely and will not resume.,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR072,1,Temporarily paused due to COVID-19 and expected to resume. This is not a suspension of IRB approval. PI has left the institution.,covid,2,covid,621,35,17.742857142857144,unique,shweta,dev
+SR073,73,Poor enrollment,enrollment,1,frequent,20,20,73.0,unique,sushma,dev
+SR074,1,The study was terminated prematurely after ad-interim analysis for the primary outcome.,efficacy,1,efficacy,751,35,21.457142857142856,unique,manish,test
+SR075,1,"The study was terminated early on July 8, 2016 due to business priorities regarding study execution.",business,1,business,724,35,20.685714285714287,unique,neha,test
+SR076,1,"On 01 March 2020, the Sponsor decided to place recruitment and dosing of patients on hold following interactions with the French regulatory authority, ANSM and the US clinical hold of another study (POLAR-M).",enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR077,1,"Phase I/II study halted as Phase I, Low Response Rate",other,0,other,4011,120,33.425,unique,sushma,test
+SR078,1,Covid interference,covid,1,covid,621,35,17.742857142857144,overlap,all,test
+SR079,1,Accrual to trial stopped due to high toxicity even at lowest dose of combination treatment. Patients on trial tolerating treatment at time of accrual closure still continued to receive treatment.,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR080,1,"The patient population in RACU has changed significantly, we can not find potential subjects to recruit. The enrollment rate has reached zero.",enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR081,1,"The parents of two patients enrolled who died, presented a claim against the hospital and the study was halted.",enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR082,1,Due to the changes of standard of care and the slow recruitment of participants.,enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR083,1,"Arm ""placement periph iv cath"" COMPLETED - Arm ""blood sampling"" : study will not be performed because of the results of the arm ""placement periph. iv cath""",other,0,other,4011,120,33.425,overlap,all,test
+SR084,1,No longer enrolling,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR085,1,"The person who was running the study never completed it, as the study never reached the target recruitment levels.",enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR086,1,The reason for early termination is difficulties recruiting that caused a premature ending of financial resources ensuring protected time for research.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR087,1,Study has been termination early due to financial contraints.,funding,1,funding,649,35,18.542857142857144,unique,manish,dev
+SR088,1,the end of inclusion period,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR089,1,transferred study sponsor,other,0,other,4011,120,33.425,unique,neha,dev
+SR090,1,Sponsor funding,funding,1,funding,649,35,18.542857142857144,unique,neha,test
+SR091,3,Due to lack of enrollment,enrollment,1,enrollment_single,3605,70,154.5,overlap,all,test
+SR092,1,PI accepted a position at a new Institution and terminated the study at UIC.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,sushma,test
+SR093,1,Did not receive funding for the trial.,funding,1,funding,649,35,18.542857142857144,unique,sushma,test
+SR094,1,The decision to close the NN2211-3619 trial was based on the very low recruitment rate as well as challenges relating to trial execution and study completion.,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR095,1,It was finally decided not to perform the interventional part of the study. Only the questionnaire's part was performed,other,0,other,4011,120,33.425,unique,shweta,test
+SR096,1,"Study sites were closed in March 2020, due to COVID-19 and did not re-open; follow-up data were collected for 6 months subsequently of already enrolled subjects",enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR097,1,Decision to discontinue product development at this time,other,0,other,4011,120,33.425,unique,sushma,test
+SR098,1,Covid19 sanitary crisis,covid,1,covid,621,35,17.742857142857144,unique,shweta,test
+SR099,1,Lack of available time,other,0,other,4011,120,33.425,unique,manish,dev
+SR100,1,Due low efficacy of FMT in interim analysis.,efficacy,1,efficacy,751,35,21.457142857142856,unique,shweta,test
+SR101,1,Some sites withdrew because no contract with insulin pump supplier,other,0,other,4011,120,33.425,unique,manish,test
+SR102,1,Target of recruitment not reachable,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR103,1,The study was prematurely stopped due to business reasons.,business,1,business,724,35,20.685714285714287,overlap,all,test
+SR104,1,The parent trials did not meet the primary endpoints of reduction in motor and phonic tics.,other,0,other,4011,120,33.425,unique,manish,test
+SR105,1,Sponsor decision; not due to any safety concerns related to DTX101.,safety,2,safety,851,40,21.275,unique,manish,test
+SR106,1,"Shortages of study drug, difficulty enrolling patients",enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR107,1,Recruitment complications due to COVID-19,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR108,1,Decision to terminate EZH-1401 was solely due to company business decision.,business,1,business,724,35,20.685714285714287,unique,shweta,dev
+SR109,1,Withdrawal of medication and funding support by Sponsor,funding,2,funding,649,35,18.542857142857144,unique,sushma,test
+SR110,1,Loss of funding due to COVID-19,covid,2,covid,621,35,17.742857142857144,unique,shweta,test
+SR111,1,"Data safety and monitoring board(DSMB) have been performed when half of sample size (SS)have been reached. Recruitment was slower than expected so SS was recalculated. After analysis of data, DSMB recommended to stop study.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR112,94,Lack of recruitment,enrollment,1,frequent,20,20,94.0,unique,shweta,test
+SR113,1,Sponsor's discretion to terminate study prematurely for further evaluation.,other,0,other,4011,120,33.425,unique,shweta,dev
+SR114,2,Unable to recruit sufficient participants,enrollment,1,enrollment_single,3605,70,103.0,overlap,all,test
+SR115,1,Now we use better procedures for the patient instead of nasal catheter for epistaxis. So it would be unethical to use the nasal catheter to complete the trial.,other,0,other,4011,120,33.425,unique,manish,test
+SR116,1,The standard of care for the patient population changed and we were unable to accrue any longer.,enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR117,2,Company's business decision,business,1,business,724,35,41.371428571428574,unique,neha,dev
+SR118,1,COVID shutdown,covid,1,covid,621,35,17.742857142857144,unique,neha,test
+SR119,1,Delay in recruitment as per last protocol amendment due to Covid-19,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR120,1,Early termination due to business reasons,business,1,business,724,35,20.685714285714287,unique,sushma,test
+SR121,100,Poor accrual,enrollment,1,frequent,20,20,100.0,unique,sushma,test
+SR122,45,COVID-19 pandemic,covid,1,frequent,20,20,45.0,unique,sushma,test
+SR123,3,"The study was terminated early due to Sponsor decision, closure of this combination therapy program is unrelated to any safety issues, no signals of concern.",safety,2,safety,851,40,63.824999999999996,overlap,all,test
+SR124,1,PI left Johns Hopkins University,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,sushma,test
+SR125,1,Trial futility,efficacy,1,efficacy,751,35,21.457142857142856,unique,sushma,test
+SR126,1,Interruption of COVID 19 pandemic,covid,1,covid,621,35,17.742857142857144,unique,neha,test
+SR127,1,The study encountered unexpected difficulties in enrolling patients due to requirements for the Informed Consent. 60% of our patients comes from abroad with only one accompanying parent. The rules of our EC require both parents to sign the consent.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,dev
+SR128,2,Unable to secure funding,funding,1,funding,649,35,37.08571428571429,unique,shweta,dev
+SR129,1,Lack of adequate funding,funding,1,funding,649,35,18.542857142857144,unique,sushma,test
+SR130,1,Study terminated by the Sponsor due to slow enrollment,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR131,5,The Relamorelin program is being terminated solely based on a business decision.,business,1,business,724,35,103.42857142857143,unique,sushma,dev
+SR132,1,Re-evaluate indication with the referring physicians,other,0,other,4011,120,33.425,unique,manish,test
+SR133,1,We completed One group intervention but the COVID Pandemic forced us to pause the research. We have preliminary data from 18 participants.,covid,1,covid,621,35,17.742857142857144,unique,sushma,test
+SR134,1,COVID-19 pandemic impacted recruitment,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,dev
+SR135,2,Drug toxicity,safety,1,safety,851,40,42.55,overlap,all,test
+SR136,1,Pandemic impacted ability to recruit and enroll,enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR137,1,Trial met primary efficacy endpoint target. No additional subjects necessary.,efficacy,1,efficacy,751,35,21.457142857142856,overlap,all,test
+SR138,1,Biosense stopped Study enrollment following publications that reported PVAC ablation is linked with a higher incidence of asymptomatic cerebral embolic lesions,enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR139,1,Protocol closed to accrual early due to PI retirement.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR140,1,Financial considerations,funding,1,funding,649,35,18.542857142857144,unique,neha,test
+SR141,1,Unable to get product at this time,other,0,other,4011,120,33.425,overlap,all,test
+SR142,1,Mutual decision of sponsor and investigator due to logistical challenges,other,0,other,4011,120,33.425,unique,neha,test
+SR143,1,The institution transitioned from open surgical procedure to Robotic procedure,other,0,other,4011,120,33.425,overlap,all,test
+SR144,1,Study was closed early due to slow enrollment.,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR145,1,Sponsor company was acquired and new owner chose not to proceed with clinical study,business,1,business,724,35,20.685714285714287,unique,manish,test
+SR146,1,The number of anticipated participants was not achieved,other,0,other,4011,120,33.425,unique,shweta,test
+SR147,1,"Changing parameters in HCV management, resulted in poor recruitment; additionally onset of SARS CoV2 resulted in the cessation of all mobile clinical services.",enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR148,1,the efficency is not good enough to enroll more patients,enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR149,1,Lack of incorporation with patients,other,0,other,4011,120,33.425,unique,sushma,dev
+SR150,1,Insufficient funding to continue with study activities,funding,1,funding,649,35,18.542857142857144,unique,neha,test
+SR151,1,company strategic change,business,1,business,724,35,20.685714285714287,unique,sushma,dev
+SR152,1,"Slow patient enrollment and new molecules for chronic lymphoid leukemia, have importantly reduced the interest of conducting the phase II of this study.",enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,dev
+SR153,1,Lack of time and participation in the study,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR154,1,It was not possible to continue recruiting due to SARSCov2 pandemia. Results obtained at that time were already published,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR155,1,NCI decided to terminate ABTC Consortium due to NCI moving in different direction for Brain Cancer - official close date is 10/31/23,other,0,other,4011,120,33.425,overlap,all,test
+SR156,1,Decommissioned due to not enough staff across the study to adequately support it.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,sushma,test
+SR157,1,"The laboratory's partner on this study decides to terminate the contract with the CHRU Brest, because of the difficulty of the recruitment.",enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR158,1,Prematurely terminated due to poor accrual,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR159,1,development program for filgotinib for participants with psoriatic arthritis has been stopped,business,1,business,724,35,20.685714285714287,unique,manish,test
+SR160,1,"After an interim analysis of the data, it became clear that the imaging results did not correlate to the primary outcome measures in this subset of patients.",efficacy,1,efficacy,751,35,21.457142857142856,unique,neha,dev
+SR161,1,This study was closed early due to lack of enrollments and insufficient funding.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR162,1,Business decision to discontinue product development.,business,1,business,724,35,20.685714285714287,unique,shweta,dev
+SR163,2,Decision to terminate development of Gantenerumab for treatment of prodromal/mild/early-stage Alzheimer's disease following results of a pre-planned analysis of the safety and efficacy of Gant in Graduate I\&II (WN29922/WN39658).,safety,2,safety,851,40,42.55,unique,neha,test
+SR164,1,Due to slow enrollment the study was stopped prematurely.,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR165,1,Mode of application to be reconsidered by Sponsor,business,1,business,724,35,20.685714285714287,unique,manish,test
+SR166,2,IRB approval expired.,other,0,other,4011,120,66.85,unique,manish,dev
+SR167,1,change in the development strategy,business,1,business,724,35,20.685714285714287,unique,manish,test
+SR168,1,Drug unavailable,other,0,other,4011,120,33.425,overlap,all,test
+SR169,2,Interim analysis showed inadequate efficacy of bifeprunox,efficacy,1,efficacy,751,35,42.91428571428571,unique,sushma,test
+SR170,1,"Due to restrictions imposed by the COVID-19 pandemic and difficulty of partcipants' adhesion, we chose to stop the data collection and suspend the project.",covid,1,covid,621,35,17.742857142857144,unique,shweta,test
+SR171,1,As a busy MTF we were unable to retain a health care provider with the appropriate expertise to buy-in to this study once the initiating PI left military service.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,shweta,test
+SR172,1,No answer received from the Philippines Food and Drug Administration on protocol amendment issued due to IDMC recommendations. CYD vaccine 3rd dose not given.,other,0,other,4011,120,33.425,unique,manish,dev
+SR173,1,The study has been terminated because of operational reasons.,other,0,other,4011,120,33.425,overlap,all,test
+SR174,1,This study was closed early by the DSMB due to increased toxicity.,safety,1,safety,851,40,21.275,overlap,all,test
+SR175,1,At the request of the study's funders (NIHR-HTA) the study was terminated early due to poor recruitment in the context of the COVID-19 pandemic and unprecedented pressures faced by the NHS.,enrollment,3,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR176,1,Business decision not related to patient safety,safety,2,safety,851,40,21.275,unique,manish,test
+SR177,1,Not possible to achieve the anticipated no. of patients due to Covid-19 pandemic,covid,1,covid,621,35,17.742857142857144,unique,sushma,dev
+SR178,1,Study terminated due to COVID-19 restrictions,covid,1,covid,621,35,17.742857142857144,unique,sushma,test
+SR179,1,"6 patients were recuited. Due to inability of the tracer to detect regions of interest sufficiently, the trial was closed early.",other,0,other,4011,120,33.425,unique,sushma,test
+SR180,1,Due to an atypical health scenario caused by the COVID-19 pandemic,covid,1,covid,621,35,17.742857142857144,unique,sushma,test
+SR181,1,organizational difficulties for the collection of adipose tissue and for the supply of the experimental drug,other,0,other,4011,120,33.425,overlap,all,test
+SR182,1,Lack of Accrual and Inadequate Funding,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR183,1,low rate recruitment,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR184,1,Pfizer has made an internal business decision to not continue further development of PF-07265807. This decision was not due to major safety concerns or requests from any regulatory authorities.,safety,2,safety,851,40,21.275,unique,manish,test
+SR185,1,Due to financial hardships suffered by the stakeholder,funding,1,funding,649,35,18.542857142857144,unique,neha,test
+SR186,1,failure rate 91.1%,other,0,other,4011,120,33.425,unique,neha,test
+SR187,1,"Upon interim analysis, sponsor's decision due to absence of demonstration of efficacy.",efficacy,2,efficacy,751,35,21.457142857142856,unique,sushma,test
+SR188,1,Lack of funding required for enrollment to reach statistical significance.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR189,50,Insufficient enrollment,enrollment,1,frequent,20,20,50.0,unique,neha,test
+SR190,1,Missing evidence of the effectiveness of the study medication,other,0,other,4011,120,33.425,unique,neha,dev
+SR191,1,Incomplete study enrollment prior to depletion of funding,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR192,1,Study was prematurely terminated because of administrative reasons.,business,1,business,724,35,20.685714285714287,unique,manish,test
+SR193,1,Sponsor did not want to pursue and COVID 19 delays,covid,1,covid,621,35,17.742857142857144,overlap,all,test
+SR194,1,high discontinuation rates mainly due to GI tolerability and implementation of risk mitigation plan to address hypersensitivity reactions,other,0,other,4011,120,33.425,unique,shweta,test
+SR195,1,There was no funding for the device to be used in the study.,funding,1,funding,649,35,18.542857142857144,overlap,all,test
+SR196,1,Lake of financing,funding,1,funding,649,35,18.542857142857144,unique,manish,test
+SR197,1,safety issue observed on another hepatocellular study using OSI906,safety,1,safety,851,40,21.275,unique,sushma,test
+SR198,1,Unable to recruit the adequate number of subjects,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR199,1,Protocol was stopped due to the safety issue in Global,safety,1,safety,851,40,21.275,unique,shweta,test
+SR200,1,"This observational study was stopped after 140 patients were enrolled, no more funds available to continue.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR201,1,Change in standard of care,other,0,other,4011,120,33.425,overlap,all,test
+SR202,1,"This study was terminated early due to other competing trials, therefore did not go on to the Phase II portion of the study.",other,0,other,4011,120,33.425,overlap,all,test
+SR203,1,Terminated due to expiration of funding,funding,1,funding,649,35,18.542857142857144,unique,neha,test
+SR204,1,This was an open label extension for patients completing the REFALS study (3119002; NCT03505021). Study 3119002 showed lack of efficacy of ODM109 so the sponsor decided to terminate this study,efficacy,1,efficacy,751,35,21.457142857142856,unique,shweta,test
+SR205,2,Lack of study enrollment,enrollment,1,enrollment_single,3605,70,103.0,unique,sushma,test
+SR206,1,End of H1N1 Swine Flu Pandemic,covid,1,covid,621,35,17.742857142857144,unique,manish,test
+SR207,111,Slow enrollment,enrollment,1,frequent,20,20,111.0,unique,sushma,test
+SR208,1,An endpoint difference between 3 energies was not observed at interim analysis,efficacy,1,efficacy,751,35,21.457142857142856,unique,neha,test
+SR209,1,Corticosteroid use approval,funding,1,funding,649,35,18.542857142857144,overlap,all,test
+SR210,1,Difficulty to recruit patient.,enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR211,1,Could not obtain additional funding to continue the research.,funding,1,funding,649,35,18.542857142857144,overlap,all,test
+SR212,3,Study terminated early at the request of Sponsors.,other,0,other,4011,120,100.27499999999999,unique,shweta,test
+SR213,1,The study has been stopped for logistic reasons not related to the safety or efficacy of the vaccine.,safety,2,safety,851,40,21.275,unique,sushma,dev
+SR214,4,PI leaving institution,pi_or_site,1,pi_or_site,466,30,62.13333333333333,unique,manish,test
+SR215,1,"Study stopped for operational futility. Due to very small numbers of subjects, insufficient data was available for results to provide meaningful conclusions.",efficacy,1,efficacy,751,35,21.457142857142856,unique,shweta,test
+SR216,1,PI/Project director no longer at facility,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,neha,test
+SR217,1,The study was terminated because of slow enrollment. The decision to terminate the trial was not based on any safety or efficacy concerns.,enrollment,3,enrollment_multi,1437,80,17.9625,unique,sushma,dev
+SR218,1,no patients during covid pandemic,covid,1,covid,621,35,17.742857142857144,unique,manish,test
+SR219,1,Sponsor decision to discontinue study due to inability to recruit the expected number of subjects within the requisite time period.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR220,1,Slow enrollment; Lack of support and equipoise,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR221,1,Preliminary results were promising when interim analysis performed but terminated due to primary investigators left recruitment site.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR222,1,Drug development withdrawn,other,0,other,4011,120,33.425,unique,neha,test
+SR223,1,Patient Safety Concerns,safety,1,safety,851,40,21.275,unique,neha,test
+SR224,1,Personnel changes; insufficient resources to continue,other,0,other,4011,120,33.425,unique,sushma,dev
+SR225,1,Low enrollment; PI left institution,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR226,1,Results showing no effect,other,0,other,4011,120,33.425,unique,neha,test
+SR227,2,Risk to benefit ratio is not acceptable,other,0,other,4011,120,66.85,unique,manish,test
+SR228,1,company dissolved,business,1,business,724,35,20.685714285714287,unique,sushma,dev
+SR229,1,Difficulties patient recruitment,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR230,90,Business decision,business,1,frequent,20,20,90.0,unique,manish,test
+SR231,1,1 Indication for further investigations (brain ultrasound). 2 Change of study design to efficacy study with historical control group.,efficacy,1,efficacy,751,35,21.457142857142856,unique,neha,test
+SR232,1,Principal Investigator has left institution. IND withdrawn.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,manish,dev
+SR233,145,Low enrollment,enrollment,1,frequent,20,20,145.0,unique,neha,test
+SR234,1,"The trial was terminated at the planned interim analysis for futility on July 18, 2023.",efficacy,1,efficacy,751,35,21.457142857142856,overlap,all,test
+SR235,1,Study stopped due to funding limitations,funding,1,funding,649,35,18.542857142857144,unique,sushma,test
+SR236,1,Company decision to stop compound development. The decision is not based on any safety or efficacy concerns. It reflects the company strategy for portfolio progression.,safety,3,safety,851,40,21.275,unique,shweta,test
+SR237,1,"Funding received for eventual full trial, and data rolled over into full trial. Full trial registered under NCT06567808.",funding,1,funding,649,35,18.542857142857144,overlap,all,test
+SR238,1,"Registration of the medicine is no longer being pursued in South Korea, Taiwan or Vietnam",other,0,other,4011,120,33.425,unique,neha,test
+SR239,1,Very poor recruitment,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR240,2,Study was terminated due to lack of efficacy.,efficacy,1,efficacy,751,35,42.91428571428571,unique,neha,dev
+SR241,1,COVID-19 pandemic imposed restrictions to normal study conduct,covid,1,covid,621,35,17.742857142857144,unique,neha,dev
+SR242,1,Insufficient study support,other,0,other,4011,120,33.425,unique,shweta,test
+SR243,1,Low recruitment in spite of strategies implemented,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR244,1,Investigator left instititution,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,sushma,test
+SR245,1,"We were not able to enroll adequate number of participants that met the inclusion/exclusion criteria, and we run out of funding.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR246,1,Challenges with participant recruitment as a result of COVID-19 pandemic,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR247,1,"Due to the amended therapy strategies for rectal cancer recently, it was decided not to transfer the study to the phase II part, as superiority over standard chemoradiation and transfer to a new therapy standard are increasingly unlikely.",business,1,business,724,35,20.685714285714287,overlap,all,test
+SR248,1,Business decision due to enrollment challenges,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR249,1,Study terminated 26 June 2015 due to changes in the drug development portfolio. This study was not terminated for reasons of safety and/or efficacy,safety,3,safety,851,40,21.275,overlap,all,test
+SR250,1,Futility for enrollment,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR251,1,This study was terminated early by the Sponsor based on the interim analysis of Study GA39925 (NCT03558152) that showed low efficacy of UTTR1147A in ulcerative colitis. Development of the drug in this indication has been terminated.,efficacy,2,efficacy,751,35,21.457142857142856,unique,manish,dev
+SR252,1,criteria for continuing enrollment in Phase 2 portion was not met,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR253,1,Drug Recall,other,0,other,4011,120,33.425,unique,neha,test
+SR254,5,low inclusion rates,enrollment,1,enrollment_single,3605,70,257.5,unique,sushma,test
+SR255,1,Lack of funding of the non-commercial sponsor to extend recruitment and reach the target number of patients specified in the protocol.,enrollment,3,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR256,1,COVID-19 institutional restrictions on screening colonoscopies,covid,1,covid,621,35,17.742857142857144,unique,neha,test
+SR257,1,As the study did not meet it's primary endpoint a decision was made to terminate the study.,other,0,other,4011,120,33.425,unique,sushma,test
+SR258,1,GSK decision,other,0,other,4011,120,33.425,unique,neha,test
+SR259,1,Due to SARS-Cov-2 emergency we were unable to recruit the expected number of children. We will analyze the available data,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR260,1,the study was terminated for patient recruitment difficulty and interim power analysis,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR261,1,enrollment closed due to lack of funding,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR262,1,Insufficient enrollment; No safety concerns,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR263,1,Our PI left our institutions as we could not longer continue.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,overlap,all,test
+SR264,1,Newly reported data at the time indicated that alternative therapies were more effective than CP for early treatment of high-risk patients with COVID-19.,covid,1,covid,621,35,17.742857142857144,unique,manish,test
+SR265,1,Lack of enrollment secondary to eligibility criteria,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR266,1,study stopped due to the difficulty in patient compliance for follow up visits,other,0,other,4011,120,33.425,unique,shweta,test
+SR267,1,Ongoing challenges to successfully recruit the required number of subjects,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR268,1,"The inclusion and exclusion criteria have become very restrictive, resulting in a very limited eligible population",enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,dev
+SR269,3,The development was stopped due to company's strategy consideration,business,1,business,724,35,62.057142857142864,unique,shweta,test
+SR270,1,COVID-19 pandemic and patient recruitment issues,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR271,1,The PERTH RCT was nested within the MAASTHI birth cohort. PERTH study was stopped as MAASTHI has completed it's recruitment.,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR272,1,Terminated early due to low blinded event rate,other,0,other,4011,120,33.425,unique,sushma,test
+SR273,1,insufficient recruitment of patients and high costs associated with the purchase and blinding of study medication,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR274,1,This study was stopped because of difficulties of supplying the drug.,other,0,other,4011,120,33.425,unique,shweta,test
+SR275,78,Low recruitment,enrollment,1,frequent,20,20,78.0,unique,neha,test
+SR276,1,recommendation by Data Monitoring Committee,other,0,other,4011,120,33.425,unique,shweta,test
+SR277,1,Unable to continue to conduct study procedures due to pandemic,covid,1,covid,621,35,17.742857142857144,overlap,all,test
+SR278,1,Zambon corparate has decided not to renew the production of the samples.,other,0,other,4011,120,33.425,overlap,all,test
+SR279,1,Protocol is completed,other,0,other,4011,120,33.425,unique,manish,test
+SR280,1,"Enrollment in this study was terminated for business development reasons before completing one third of the expected subject population, no formal statistical testing was performed.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,dev
+SR281,1,It was not possible to recruit and include a sufficient number of patients within the timeframe.,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR282,2,inclusion difficulty,enrollment,1,enrollment_single,3605,70,103.0,unique,neha,test
+SR283,1,Sponsor funding limitations,funding,1,funding,649,35,18.542857142857144,overlap,all,test
+SR284,1,Study re-design,other,0,other,4011,120,33.425,unique,shweta,dev
+SR285,1,Preliminary results showed no ability to predict pain by measuring hippus with pupillometry,other,0,other,4011,120,33.425,unique,sushma,test
+SR286,1,Terminated due to reasons unrelated to safety,safety,1,safety,851,40,21.275,unique,neha,test
+SR287,1,Many patients were lost to follow-up,other,0,other,4011,120,33.425,unique,manish,test
+SR288,1,study did not meet pre-specified criteria for continuation following interim futility analysis,efficacy,1,efficacy,751,35,21.457142857142856,overlap,all,test
+SR289,1,"Part1,double blind portion of the trial did not meet the primary end points",other,0,other,4011,120,33.425,overlap,all,test
+SR290,1,Enrollment to the study was terminated on 11Nvo2014 due to slow recruitment. There were no safety or efficacy issues that contributed to this decision.,enrollment,3,enrollment_multi,1437,80,17.9625,unique,neha,dev
+SR291,1,"After a first stop due to acupuncturists unavailability, the Covid-19 pandemic also impacted on the study time schedule for acupuncture administration and outcomes evaluation.",covid,1,covid,621,35,17.742857142857144,unique,sushma,test
+SR292,1,Lack of available study participants.,other,0,other,4011,120,33.425,unique,manish,test
+SR293,1,REB decision,other,0,other,4011,120,33.425,unique,neha,test
+SR294,1,Slow recruitment due to strict inclusion/exclusion criteria,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR295,1,Sponsors decision to terminate the study based on the current Covid situation which is preventing completion of study milestone.,covid,2,covid,621,35,17.742857142857144,unique,neha,test
+SR296,1,The study was halted after a Phase 3 study of dimebon failed to show efficacy.,efficacy,1,efficacy,751,35,21.457142857142856,unique,shweta,test
+SR297,1,enrollment volume due to placebo arm of trial,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,dev
+SR298,1,"The enrollment was prematurely terminated on October 15, 2020, with 481 randomized patients. As discussed in the ASAP-TOO Update Meeting held on 16-September-2020 with FDA (Q150603-S001-A005), termination of enrollment was not due to safety concerns",enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR299,1,Due to increased rate of local injection site reactions in the DSJI group.,other,0,other,4011,120,33.425,overlap,all,test
+SR300,1,Study was terminated prior to enrolling protocol target accrual goal due to declining accrual and Data Safety Monitoring Board recommendations.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR301,1,"suspeded due to slow recruitment, terminated due to interim analysis",enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR302,2,IDMC recommendation,other,0,other,4011,120,66.85,unique,neha,test
+SR303,1,Termininated for business reasons,business,1,business,724,35,20.685714285714287,unique,shweta,test
+SR304,1,"The sponsor's decision to stop the study follows the DSMB's recommendations (end of enrolment and experimental treatment, post-treatment/end-of-study visit within 3 months of stopping treatment), regarding the benefit-risk balance.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR305,1,"'Sponsor decision following recruitment issues, not related to any safety concerns in the study",enrollment,3,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR306,1,Lack of efficacy data from the Phase 3 clinical study (AC-054-301; CONSCIOUS-2),efficacy,1,efficacy,751,35,21.457142857142856,unique,neha,dev
+SR307,1,Terminated by PI,pi_or_site,1,pi_or_site,466,30,15.533333333333333,overlap,all,test
+SR308,1,Unable to meet enrollment and follow up criteria,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR309,1,PI left the institution before all data analysis was completed,pi_or_site,1,pi_or_site,466,30,15.533333333333333,overlap,all,test
+SR310,1,"The enrollment of this study was slow. With the approval of lenvatinib in HCC,many patients choose the new drug, so subsequent enrollment may be more difficult.",enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR311,1,Study administratively closed out by the Einstein IRB. NO US enrolling sites.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR312,1,Sponsor's business decision,business,1,business,724,35,20.685714285714287,unique,neha,test
+SR313,1,Suboptimal subject recruitment,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR314,1,Combination of insufficient funding and lack of compelling findings,funding,1,funding,649,35,18.542857142857144,unique,manish,test
+SR315,1,Principal investigator decided to terminate the study.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,manish,test
+SR316,1,The Sponsor chose to terminate this study for commercial reasons.,business,1,business,724,35,20.685714285714287,unique,shweta,dev
+SR317,1,AVROBIO has deprioritized its Fabry disease program,business,1,business,724,35,20.685714285714287,unique,neha,dev
+SR318,1,Funding withdrawn due to inability to accrue,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR319,1,"Due to the budget issues, the study discontinued at Phase II.",funding,1,funding,649,35,18.542857142857144,unique,shweta,test
+SR320,1,Participants are no longer being examined. The results are published 2016 Anticancer Research 36: 6431-6438,other,0,other,4011,120,33.425,unique,sushma,test
+SR321,1,PI left institution and unable to find new PI,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,neha,test
+SR322,1,Insufficient recruitment pace,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR323,1,Difficulties for inclusions,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR324,1,The VITAL study was terminated due to futility analysis,efficacy,1,efficacy,751,35,21.457142857142856,unique,manish,test
+SR325,1,recruiting too slowly,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR326,1,Stopped in march 2024 because lead investigator left Canada,pi_or_site,1,pi_or_site,466,30,15.533333333333333,overlap,all,test
+SR327,1,due to business decisions,business,1,business,724,35,20.685714285714287,unique,shweta,test
+SR328,1,Funding withdrawn as the principal investigator moved from the USA to the UK,funding,2,funding,649,35,18.542857142857144,unique,shweta,dev
+SR329,1,High cancellation rate in LH test group in interim analysis,efficacy,1,efficacy,751,35,21.457142857142856,overlap,all,test
+SR330,1,Too few participants,other,0,other,4011,120,33.425,unique,manish,test
+SR331,1,enrollment problem,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR332,1,Poor enrollment and adverse event experiences in the limited population,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,dev
+SR333,1,REB Approval lapsed.,other,0,other,4011,120,33.425,unique,sushma,dev
+SR334,2,COVID 19 pandemic,covid,1,covid,621,35,35.48571428571429,unique,manish,dev
+SR335,1,"An interim analysis was conducted in May-2014. Upon review of the data, the committee recommended study termination due to futility.",efficacy,1,efficacy,751,35,21.457142857142856,unique,manish,dev
+SR336,1,Sponsor decision due to commercial availability of ataluren.,business,1,business,724,35,20.685714285714287,unique,neha,test
+SR337,1,"Principal Investigator relocated to Orlando, Florida.",pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,neha,test
+SR338,1,No prolongation,other,0,other,4011,120,33.425,unique,manish,dev
+SR339,1,Failure to demonstrate a tolerable dose that had potential for efficacy.,efficacy,1,efficacy,751,35,21.457142857142856,unique,shweta,test
+SR340,1,Product discontinued in November 2014,other,0,other,4011,120,33.425,overlap,all,test
+SR341,1,Study closed by the Einstein IRB,other,0,other,4011,120,33.425,unique,manish,dev
+SR342,1,Poor recruitment/retention due to the pandemic. Data was not analyzed due to early termination.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR343,1,Slow enrollment and planned change of institution by PI,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR344,1,Due to the very low inlcusion rate and the current COVID-19 pandemic.,covid,1,covid,621,35,17.742857142857144,unique,manish,dev
+SR345,1,Business decision non-safety related.,safety,2,safety,851,40,21.275,unique,sushma,test
+SR346,1,Lack of funding and appropriate staff,funding,2,funding,649,35,18.542857142857144,overlap,all,test
+SR347,1,"Treatment without success, low enrollment, one serious adverse event",enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR348,1,Optimization of protocol,other,0,other,4011,120,33.425,unique,sushma,test
+SR349,101,Slow recruitment,enrollment,1,frequent,20,20,101.0,unique,manish,test
+SR350,1,Unable to isolate sufficient cells from the skin biopsy to perform study experiments.,other,0,other,4011,120,33.425,unique,manish,test
+SR351,1,requested by the IRB,other,0,other,4011,120,33.425,overlap,all,test
+SR352,1,Discrepancies in medication orders,other,0,other,4011,120,33.425,unique,neha,test
+SR353,1,Due to the Pandemic and the nature of this study we decided to terminate this study.,covid,1,covid,621,35,17.742857142857144,unique,sushma,test
+SR354,1,Changes in funding status,funding,1,funding,649,35,18.542857142857144,unique,shweta,dev
+SR355,1,Amended clinical development plan.,business,1,business,724,35,20.685714285714287,unique,shweta,test
+SR356,1,Interim analysis showing safety concerns,safety,2,safety,851,40,21.275,unique,sushma,dev
+SR357,1,Inclusion stopped at 50% after interim analysis: primary efficacy endpoint not significant,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR358,1,Patient with rare disease,other,0,other,4011,120,33.425,unique,manish,test
+SR359,1,didn't reach the primary endpoint,other,0,other,4011,120,33.425,unique,neha,test
+SR360,1,Very low recruitment. During COVID-19 pandemic these are patients of high risk.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR361,1,Investigator decision to close study,other,0,other,4011,120,33.425,unique,manish,dev
+SR362,1,The sponsor finds the risk/benefit analysis unfavorable and has terminated the study.,other,0,other,4011,120,33.425,unique,sushma,test
+SR363,1,"Funds for this project have been spent, and it is thereby terminated.",funding,1,funding,649,35,18.542857142857144,unique,sushma,test
+SR364,1,PI is leaving institution,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,shweta,dev
+SR365,1,The Sponsor decided to not proceed from SAD to MAD to explore the possibility of further studying PD.,other,0,other,4011,120,33.425,unique,shweta,dev
+SR366,1,The study was terminated early due to the lack of efficacy and the study sponsor's decision to no longer continue the study,efficacy,2,efficacy,751,35,21.457142857142856,unique,neha,test
+SR367,1,difficulties to recruit all the patients,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR368,1,COVID-19 challenges to recruitment,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR369,1,Sponsor assessed all endpoints and collected Overall Survival data for another two years following the primary completion date of 03Feb2021.,other,0,other,4011,120,33.425,unique,shweta,test
+SR370,2,Departure of the PhD in charge of the study,other,0,other,4011,120,66.85,unique,neha,dev
+SR371,1,this trial enroll extremely slow and No funding support,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR372,3,Unable to recruit enough participants.,enrollment,1,enrollment_single,3605,70,154.5,unique,manish,test
+SR373,59,Lack of accrual,enrollment,1,frequent,20,20,59.0,unique,shweta,dev
+SR374,1,The PI was ended her work in the hospital and no replacement was found.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,shweta,test
+SR375,1,unable to complete recruitment,enrollment,1,enrollment_single,3605,70,51.5,unique,neha,test
+SR376,1,"Study population was insufficient to provide an adequate pool of patients. All included patients were treated and followed, but the overall desired sample size was not achieve",other,0,other,4011,120,33.425,overlap,all,test
+SR377,1,Safety signal,safety,1,safety,851,40,21.275,overlap,all,test
+SR378,1,PI has re-located. PI terminated FDA IND # and closed study.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,manish,test
+SR379,1,Due to concerns about potential liver safety (See Detailed Description),safety,1,safety,851,40,21.275,unique,neha,test
+SR380,1,Closed early for futility.,efficacy,1,efficacy,751,35,21.457142857142856,unique,sushma,test
+SR381,1,"As a result of termination of development of Prosavin, it is no longer possible for Sio to either commence or to continue any related clinical trials.",other,0,other,4011,120,33.425,unique,sushma,test
+SR382,2,There was no indication that long-term follow-up would differ between any of the studies that have evaluated devices within the 410 Style Matrix.,other,0,other,4011,120,66.85,unique,manish,test
+SR383,1,Challenges with enrollment; primary investigator left the institution,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR384,1,Significant differences in conversion rate as well as R0 resection rate between the two groups.,other,0,other,4011,120,33.425,unique,sushma,test
+SR385,1,The study was halted prematurely due to lack of interested participants.,other,0,other,4011,120,33.425,overlap,all,test
+SR386,1,"difficulty enrollment, no patients received treatment",enrollment,1,enrollment_single,3605,70,51.5,unique,neha,dev
+SR387,1,Major study protocol changes,other,0,other,4011,120,33.425,unique,manish,dev
+SR388,1,Study stopped early due to slow accrual and safety concerns.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR389,1,Slow accrual and changing treatment landscape,enrollment,1,enrollment_single,3605,70,51.5,unique,sushma,test
+SR390,1,The study was terminated early due to Sponsor decision; no safety issues.,safety,2,safety,851,40,21.275,unique,sushma,dev
+SR391,1,Conducting an interim analysis that allowed with the number of patients included of 150 to meet the objectives of this research,efficacy,1,efficacy,751,35,21.457142857142856,unique,manish,test
+SR392,1,Budgetary and Timing Constraints,funding,1,funding,649,35,18.542857142857144,unique,neha,dev
+SR393,1,side effects (rash),safety,1,safety,851,40,21.275,unique,neha,test
+SR394,1,Manufacturer discontinued support of the study,other,0,other,4011,120,33.425,unique,neha,test
+SR395,1,Could not recruit total numbers needed. PI left institution.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR396,1,Project terminated due to insufficient resources for recruitment.,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR397,1,Randomization was stopped early because a significant beneficial effect of nutritional intervention was found in the interim analysis,efficacy,1,efficacy,751,35,21.457142857142856,unique,neha,test
+SR398,1,There is no longer any funding to support the study,funding,1,funding,649,35,18.542857142857144,unique,manish,test
+SR399,1,By recommendation from the Data and safety monitoring board,safety,1,safety,851,40,21.275,unique,manish,test
+SR400,1,"The SAKK board decided to prematurely end the life-long follow-up of the trial SAKK 21/12, as 90% of the patients have died.",other,0,other,4011,120,33.425,unique,shweta,test
+SR401,1,The study was terminated for business reasons.,business,1,business,724,35,20.685714285714287,unique,sushma,test
+SR402,1,We were not able to recruit enough participants during the funding period.,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,dev
+SR403,1,Recruitment stalled. Study terminated before inclusion of sufficient number of participants included,enrollment,1,enrollment_single,3605,70,51.5,overlap,all,test
+SR404,1,Primary endpoint measure not suitable for evaluation,other,0,other,4011,120,33.425,unique,sushma,test
+SR405,1,lack of availability of the study drug,other,0,other,4011,120,33.425,unique,neha,test
+SR406,1,"Due to portfolio and logistical issues, this study will not be re-started at the present time. The study is not being terminated for safety reasons.",safety,2,safety,851,40,21.275,unique,neha,dev
+SR407,39,Low recruitment rate,enrollment,1,frequent,20,20,39.0,unique,manish,test
+SR408,2,Funding withdrawal,funding,1,funding,649,35,37.08571428571429,overlap,all,test
+SR409,1,"Study halted prematurely by sponsor and will not resume, participants are no longer being examined or receiving intervention.",business,1,business,724,35,20.685714285714287,overlap,all,test
+SR410,1,"DMC noted that the primary end point of healed index ulcer at 12 weeks was reached only in 11.5%, whereas a higher figure of 42.5% had been used for the original power calculation, suggesting the trial is significantly underpowered.",other,0,other,4011,120,33.425,unique,shweta,test
+SR411,78,Lack of efficacy,efficacy,1,frequent,20,20,78.0,unique,sushma,test
+SR412,1,The study was terminated early due to lack of efficacy and absence of biomarker evidence of MEDI9253's impact on the tumors.,efficacy,1,efficacy,751,35,21.457142857142856,unique,shweta,test
+SR413,1,The study was terminated before the primary endpoint (determination of MTD) was reached because the OPC form is to be replaced with the newly developed capsule form in all subsequent clinical trials.,other,0,other,4011,120,33.425,unique,shweta,test
+SR414,1,due to lack resources,other,0,other,4011,120,33.425,unique,manish,test
+SR415,1,low participation and retention rates,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR416,1,"We planned to enroll more participants but we could not recruit more participants. In addition, the covid-19 pandemic made the recruitment worse than the previous years.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR417,86,Poor recruitment,enrollment,1,frequent,20,20,86.0,unique,shweta,test
+SR418,2,Sponsor decision to terminate the study,business,1,business,724,35,41.371428571428574,unique,sushma,test
+SR419,1,We stopped recruiting having 8 in each intervention group instead of 9 due to recruitment problems due to COVID19 pandemic,enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR420,1,Study halted due to adverse events,safety,1,safety,851,40,21.275,overlap,all,test
+SR421,1,Results of an interim analysis and a hardly ongoing enrolment in the last 10 months in all six participating centres,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,dev
+SR422,1,"A business decision was made by Pfizer to terminate the study. Termination was not due to any safety concerns, requests from regulatory authorities, changes to the benefit/risk profile or any new concerns regarding the investigational product.",safety,2,safety,851,40,21.275,unique,neha,dev
+SR423,120,Lack of enrollment,enrollment,1,frequent,20,20,120.0,unique,shweta,test
+SR424,1,Study has been termination early due to financial constraints.,funding,1,funding,649,35,18.542857142857144,unique,sushma,test
+SR425,1,PI left institution prior to completion of study. Data unavailable..,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,neha,test
+SR426,1,The study was stopped due to futility,efficacy,1,efficacy,751,35,21.457142857142856,unique,manish,test
+SR427,1,"Because patient recruitment was affected by the COVID-19 pandemic, the study sponsor and funding partner halted enrollment at that time to meet contractual obligations",enrollment,3,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR428,1,the results of the interim analysis are clear with a significant advantage in terms of PFS in favor of the control arm (Vinblastine alone) over the investigational arm (Vinblastine + Nilotinib).,efficacy,1,efficacy,751,35,21.457142857142856,unique,shweta,test
+SR429,1,PI transferred to new institution.,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,manish,test
+SR430,183,Low accrual,enrollment,1,frequent,20,20,183.0,unique,neha,test
+SR431,1,"Impacted by the COVID-19 pandemic:
+
+* slow recruitment rate
+* cuts in budget for non-COVID-19 related projects",enrollment,3,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR432,1,"To conserve remaining capital, Sponsor decided to terminate the study early.",other,0,other,4011,120,33.425,unique,sushma,test
+SR433,1,Subject withdrew,other,0,other,4011,120,33.425,unique,neha,test
+SR434,1,"The laboratory in which the analyses on nasosinusal polyposis were to be carried out did not want to continue the research on this subject, so it was decided to stop this study prematurely.",other,0,other,4011,120,33.425,unique,neha,dev
+SR435,1,"Inclusion was too slow, a lot of data loss during COVID pandemic",enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR436,1,Funder decision - lack of accrual,enrollment,2,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR437,1,Funding cut due to government sequestration,funding,1,funding,649,35,18.542857142857144,unique,shweta,test
+SR438,1,Due to interim analysis' results and definitions fixed in protocol,efficacy,1,efficacy,751,35,21.457142857142856,overlap,all,test
+SR439,1,"The study was targeted to accrue 130 patients, but closed early for futility.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR440,1,No funding obtained. The ABPM machines are being used for another project,funding,1,funding,649,35,18.542857142857144,overlap,all,test
+SR441,1,Issue regarding the stent design,other,0,other,4011,120,33.425,unique,sushma,test
+SR442,1,Principal Investigator and Study Sponsor decided to terminate the study early,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,neha,test
+SR443,1,Well tolerated but failed to demonstrate significant activity. So it did not meet its primary endpoint or key secondary endpoints.,other,0,other,4011,120,33.425,overlap,all,test
+SR444,1,Focusing on observational cohort study due to limited enrollment in trial,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR445,1,We are halting enrollment of this study.,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,dev
+SR446,1,Enrollment futility,enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR447,1,"Laproscopic procedure not offered at this time; will not be offered for the foreseeable, thus we are unable to randomize participants between the two arms.",other,0,other,4011,120,33.425,unique,neha,test
+SR448,1,Gilead has made the decision to close the study due to enrollment challenges,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR449,1,Too slow accrual.,enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR450,1,"The study was temporarily suspended after a meta-analysis suggesting higher mortality risks among patients treated with Paclitaxel-coated balloons. When the study was open again, no new patient accepted to be included. The study stopped on 18AUG2023.",other,0,other,4011,120,33.425,unique,manish,test
+SR451,1,Due to COVID there were limitations is performing study activities and it was decided to terminate the study.,covid,1,covid,621,35,17.742857142857144,unique,manish,test
+SR452,1,Alternate development strategy,business,1,business,724,35,20.685714285714287,unique,sushma,dev
+SR453,1,Results of interim efficacy analysis showed results were not promising.,efficacy,1,efficacy,751,35,21.457142857142856,unique,sushma,test
+SR454,1,We chose to maximize this iterative treatment development study by terminating the pilot RCT in favor of enhancing an initial open trial (increased N 12 to 14),other,0,other,4011,120,33.425,unique,shweta,test
+SR455,1,Due to Negative feasibility assessment of recruiting the planned number of subjects within the study timelines,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR456,1,Per sponsor decision to stop the development of the study device,business,1,business,724,35,20.685714285714287,unique,neha,test
+SR457,1,Lack of Funding/ Resident in charge graduated,funding,1,funding,649,35,18.542857142857144,overlap,all,test
+SR458,1,"After completing the part of assessing lactobacilli transfer, it was decided not to proceed further with the masked part of the study.",other,0,other,4011,120,33.425,unique,sushma,test
+SR459,1,Study unable to proceed per protocol due to COVID-19 precautions,covid,1,covid,621,35,17.742857142857144,unique,neha,test
+SR460,4,The Sponsor has discontinued the development of tesetaxel,other,0,other,4011,120,133.7,unique,shweta,test
+SR461,1,Study was terminated for business reasons. The earlier study end is not related to any safety concerns or data issues identified at any site or within the overall study data collected to date.,safety,2,safety,851,40,21.275,unique,shweta,test
+SR462,1,Lack of faisability,other,0,other,4011,120,33.425,unique,sushma,test
+SR463,1,The study was terminated as the asset was sold to another company who decided not to pursue this indication with this drug.,business,1,business,724,35,20.685714285714287,unique,manish,dev
+SR464,1,Withdrawal of funding by CR UK due to poor recruitment,enrollment,2,enrollment_multi,1437,80,17.9625,unique,sushma,test
+SR465,78,Insufficient recruitment,enrollment,1,frequent,20,20,78.0,unique,manish,test
+SR466,1,"After a reliability pilot, main study stopped due to unrelated clinic closure.",other,0,other,4011,120,33.425,unique,neha,test
+SR467,1,Due to restrictions to in-person research due to COVID-19,covid,1,covid,621,35,17.742857142857144,overlap,all,test
+SR468,2,The study was stopped due to lack of inclusions,enrollment,1,enrollment_single,3605,70,103.0,unique,neha,dev
+SR469,1,Field Safety Notice related to potential ventricular oversensing associated to the PhD feature on Paradym ICDs,safety,1,safety,851,40,21.275,unique,shweta,test
+SR470,1,This study was terminated for business reasons.,business,1,business,724,35,20.685714285714287,overlap,all,test
+SR471,1,"Phase 1B part was completed with review of DLTs and cumulative safety data by Safety Data Review Committee and identification of a safe RP2D. Post-internal review, sponsor decided to terminate the study, and hence, Phase 2 part was not conducted.",safety,1,safety,851,40,21.275,unique,shweta,dev
+SR472,1,Slow recruitment compounded by COVID-19,enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR473,1,Principal Investigator was deployed overseas,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,shweta,test
+SR474,1,"Poor recruitment, high drop out rate",enrollment,1,enrollment_single,3605,70,51.5,unique,manish,test
+SR475,1,The study was terminated due to safety reasons,safety,1,safety,851,40,21.275,unique,shweta,test
+SR476,1,"Low recruitment in final grant year, halted on-site research due to COVID-19 during NCE year.",enrollment,3,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR477,1,Livoletide did not result in a statistically significant improvement in hyperphagia and food-related behaviors,other,0,other,4011,120,33.425,unique,sushma,test
+SR478,1,Due to the health crisis triggered by the COVID-19 pandemic and the consequent sanitary-organizational arrangements set up for its contrast it was necessary to interrupt the study before reaching the established sample size.,covid,1,covid,621,35,17.742857142857144,unique,manish,dev
+SR479,1,Contractual/Funding/Accrual,enrollment,2,enrollment_multi,1437,80,17.9625,unique,manish,dev
+SR480,2,COVID-19 pandemic restrictions,covid,1,covid,621,35,35.48571428571429,unique,neha,test
+SR481,1,"There was no evidence of benefit across efficacy endpoints in the randomized trial, 245AS101. Accordingly, Biogen has made the difficult decision to discontinue the BIIB078 program including this open label extension trial, 245AS102.",efficacy,1,efficacy,751,35,21.457142857142856,overlap,all,test
+SR482,1,concern of side effects,safety,1,safety,851,40,21.275,unique,shweta,test
+SR483,1,"COVID-19 precluded the study team from being able to complete all follow-up assessments.The study was halted on March 17, 2020 and did not resume.",covid,1,covid,621,35,17.742857142857144,overlap,all,test
+SR484,1,Terminated by Amgen Limited,other,0,other,4011,120,33.425,unique,shweta,test
+SR485,1,PI requested,pi_or_site,1,pi_or_site,466,30,15.533333333333333,unique,shweta,test
+SR486,1,Abandoned due to poor recruitment,enrollment,1,enrollment_single,3605,70,51.5,unique,shweta,test
+SR487,1,Recruitment problems during covid lockdowns resulted in Merck ceasing supply of suvorexant/placebo,enrollment,2,enrollment_multi,1437,80,17.9625,unique,neha,test
+SR488,1,The independent Data Monitoring Committee recommended an early termination.,other,0,other,4011,120,33.425,unique,manish,test
+SR489,1,The results are negtive.,other,0,other,4011,120,33.425,unique,shweta,test
+SR490,1,Staffing and budget limitations. Administrative decision to halt enrollment due to coronavirus-19 (COVID) pandemic,enrollment,5,enrollment_multi,1437,80,17.9625,unique,manish,test
+SR491,1,Sponsor's decision for business reasons,business,1,business,724,35,20.685714285714287,unique,neha,test
+SR492,1,IRB request IRB request,other,0,other,4011,120,33.425,unique,neha,test
+SR493,1,"Premature termination due to lack of inclusion. Behavioral preparation is perceived as too restrictive by patients. Furthermore, the Covid and post-covid period has drastically restricted the possibilities of support for behavioral preparation.",enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,test
+SR494,1,"Study was terminated with 50% enrollment by the sponsor due to under enrollment into specific diverse racial, ethnic, and sex/gender categories.
+
+https://grants.nih.gov/policy/inclusion/women-and-minorities.htm",enrollment,3,enrollment_multi,1437,80,17.9625,overlap,all,test
+SR495,1,"Strategy adjustments, independent of the safety and efficacy of the trial medication",safety,3,safety,851,40,21.275,unique,sushma,test
+SR496,77,Recruitment difficulties,enrollment,1,frequent,20,20,77.0,unique,neha,test
+SR497,1,"change in surgical implant use, loss of subinvestigator",other,0,other,4011,120,33.425,unique,shweta,test
+SR498,1,"In accordance with the protocol, following the occurrence of two SUSARs, the TOTEM trial was stopped early for safety reasons.",safety,1,safety,851,40,21.275,unique,sushma,dev
+SR499,1,Sponsor terminated study due to financial constraints.,funding,1,funding,649,35,18.542857142857144,unique,manish,test
+SR500,1,Recruitment terminated prematurely due to SARS-CoV-2 pandemic,enrollment,2,enrollment_multi,1437,80,17.9625,unique,shweta,dev

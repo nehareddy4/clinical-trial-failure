@@ -1,0 +1,12 @@
+stratum,distinct_texts,trials,sampled
+business,724,1071,35
+covid,621,693,35
+efficacy,751,821,35
+enrollment_multi,1437,1472,80
+enrollment_single,3605,4734,70
+frequent,20,1712,20
+funding,649,910,35
+guide,16,855,16
+other,4011,4420,120
+pi_or_site,466,598,30
+safety,851,1017,40

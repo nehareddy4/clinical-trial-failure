@@ -48,6 +48,19 @@ The extraction date is recorded in `data/raw/SNAPSHOT.txt`.
 `stop_reason` is a first-pass keyword classifier (v0) in `scripts/03_build_dataset.py`.
 The labeling workstream will validate it against hand labels and replace it.
 
+## Stop-reason labeling (notebook 07)
+
+We hand-label 500 `why_stopped` texts to check the v0 keyword labels and an LLM labeler.
+Read `docs/stop_reason_labeling_guide.md` first, then fill in your sheet in
+`data/labels/stop_reasons/sheet_<name>.xlsx` (batch 1 first, then batch 2). Commit only your own sheet.
+
+```bash
+.venv/bin/python scripts/stop_reason_sheets.py         # already run; makes the sample and sheets
+.venv/bin/python scripts/stop_reason_llm.py sample     # LLM labels for the 500 texts (set LLM_* in .env)
+.venv/bin/python scripts/make_stop_reason_notebook.py  # regenerates notebook 07
+```
+On Windows use `.venv\Scripts\python` in place of `.venv/bin/python`.
+
 ## Leakage warning
 
 These columns describe the trial's **final** state, not what was known at the start.
@@ -66,6 +79,7 @@ src/db.py                   AACT connection (reads .env)
 scripts/01..03              data pipeline
 data/raw/                   extracted tables (git-ignored)
 data/processed/             analysis dataset (git-ignored)
+data/labels/                hand and LLM labels (committed)
 notebooks/                  exploration
 docs/                       proposal
 ```
