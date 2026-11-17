@@ -8,8 +8,10 @@ Run:
   .venv/bin/python scripts/stop_reason_llm.py all              # all distinct terminated texts
   .venv/bin/python scripts/stop_reason_llm.py all --shard 2/4  # second quarter of "all"
 
+"all" reads data/labels/stop_reasons/all_texts.csv, so every teammate labels the same texts.
 Results are saved to data/labels/stop_reasons/llm/ after every request; re-running continues
-where the last run stopped.
+where the last run stopped. When a free tier's daily quota runs out the script stops; run it
+again the next day.
 """
 import argparse
 import hashlib
@@ -31,6 +33,7 @@ sys.path.insert(0, str(ROOT))
 from src.stop_reasons import CATEGORIES, LABEL_DIR, LLM_DIR, YN, guide_for_llm, normalize  # noqa: E402
 
 load_dotenv(ROOT / ".env")
+ALL_TEXTS = LABEL_DIR / "all_texts.csv"
 
 SYSTEM = (
     "You label why clinical trials were terminated, using the team's labeling guide below. "
@@ -70,7 +73,11 @@ class LLM:
                 with urllib.request.urlopen(req, timeout=180) as r:
                     return json.load(r)["choices"][0]["message"]["content"]
             except urllib.error.HTTPError as e:
-                detail = e.read().decode(errors="replace")[:300]
+                error = e.read().decode(errors="replace")
+                detail = error[:300]
+                if e.code == 429 and re.search(r"per ?day", error, re.I):
+                    raise SystemExit("Daily quota used up. Finished batches are saved; "
+                                     "run the same command again tomorrow to continue.")
                 if e.code == 400 and self.json_mode and "response_format" in detail.lower():
                     self.json_mode = False  # provider has no JSON mode
                     body.pop("response_format")
@@ -112,31 +119,38 @@ def parse(content):
     return out
 
 
-def load_items(target):
-    if target == "sample":
-        s = pd.read_csv(LABEL_DIR / "sample.csv")
-        return pd.DataFrame({"id": s["item_id"], "text": s["text"]})
+def build_all_texts():
     t = pd.read_parquet(ROOT / "data/processed/trials.parquet", columns=["overall_status", "why_stopped"])
     t = t[(t["overall_status"] == "TERMINATED") & t["why_stopped"].fillna("").str.strip().ne("")]
     t = t.assign(norm=t["why_stopped"].map(normalize))
     variants = t.groupby(["norm", "why_stopped"]).size().rename("n").reset_index()
     g = variants.sort_values("n", ascending=False).drop_duplicates("norm")  # most common wording
     g["id"] = g["norm"].map(lambda x: hashlib.sha1(x.encode()).hexdigest()[:12])
-    return g.rename(columns={"why_stopped": "text"})[["id", "text", "norm"]].sort_values("id")
+    g.rename(columns={"why_stopped": "text"})[["id", "text"]].sort_values("id").to_csv(ALL_TEXTS, index=False)
+
+
+def load_items(target):
+    if target == "sample":
+        s = pd.read_csv(LABEL_DIR / "sample.csv")
+        return pd.DataFrame({"id": s["item_id"], "text": s["text"]})
+    if not ALL_TEXTS.exists():
+        build_all_texts()
+    return pd.read_csv(ALL_TEXTS, dtype=str, keep_default_na=False)
+
+
+def ask(llm, batch):
+    payload = json.dumps([{"id": i, "text": t} for i, t in zip(batch["id"], batch["text"])], ensure_ascii=False)
+    return {r["id"]: r for r in parse(llm.chat("Label these items:\n" + payload))
+            if r["id"] and r["primary_reason"] and r["enrollment_problem"]}
 
 
 def label_batch(llm, batch):
-    payload = json.dumps([{"id": i, "text": t} for i, t in zip(batch["id"], batch["text"])], ensure_ascii=False)
-    got = {r["id"]: r for r in parse(llm.chat("Label these items:\n" + payload)) if r["id"]}
-    rows = []
-    for i, t in zip(batch["id"], batch["text"]):
-        r = got.get(i)
-        if (r is None or not r["primary_reason"] or not r["enrollment_problem"]) and len(batch) > 1:
-            r = (parse(llm.chat("Label these items:\n" + json.dumps([{"id": i, "text": t}], ensure_ascii=False)))
-                 or [{}])[0]  # retry missing answers one at a time
-        rows.append({"id": i, "primary_reason": (r or {}).get("primary_reason"),
-                     "enrollment_problem": (r or {}).get("enrollment_problem")})
-    return pd.DataFrame(rows)
+    got = ask(llm, batch)
+    missing = batch[~batch["id"].isin(got)]
+    if len(missing):
+        got |= ask(llm, missing)  # one retry, in a single request, for skipped or garbled answers
+    return pd.DataFrame([{"id": i, "primary_reason": got.get(i, {}).get("primary_reason"),
+                          "enrollment_problem": got.get(i, {}).get("enrollment_problem")} for i in batch["id"]])
 
 
 def main():
@@ -148,11 +162,12 @@ def main():
 
     llm = LLM()
     items = load_items(args.target)
-    suffix = ""
+    size = int(os.getenv("LLM_BATCH_SIZE", "20"))
+    suffix = "" if size == 20 else f"_batch-{size}"  # separate file per batch size
     if args.shard:
         k, n = map(int, args.shard.split("/"))
         items = items.iloc[k - 1::n]
-        suffix = f"_shard-{k}-of-{n}"
+        suffix += f"_shard-{k}-of-{n}"
     slug = re.sub(r"[^a-z0-9]+", "-", llm.model.lower()).strip("-")
     out = LLM_DIR / f"{args.target}_{slug}{suffix}.csv"
     LLM_DIR.mkdir(parents=True, exist_ok=True)
@@ -163,7 +178,6 @@ def main():
     print(f"{llm.model}: {len(items) - len(todo):,} of {len(items):,} already labeled -> {out.relative_to(ROOT)}")
     if args.limit:
         todo = todo.head(args.limit)
-    size = int(os.getenv("LLM_BATCH_SIZE", "20"))
 
     for start in range(0, len(todo), size):
         batch = todo.iloc[start:start + size]
