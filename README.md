@@ -63,20 +63,22 @@ On Windows use `.venv\Scripts\python` in place of `.venv/bin/python`.
 
 ### LLM labels for every terminated trial (split four ways)
 
-Gemini's free tier allows 20 requests (400 texts) a day per Google account, so the 13,151 distinct
-`why_stopped` texts in `data/labels/stop_reasons/all_texts.csv` are split into four shards, one per person.
+Gemini's free tier allows 20 requests a day per Google account. At 100 texts per request that's up to 2,000
+texts a day, so the 13,151 distinct `why_stopped` texts in `data/labels/stop_reasons/all_texts.csv` are split into
+four shards of about 3,300, one per person.
 
 1. Create a free API key at aistudio.google.com with your own Google account. Copy the Gemini lines from
-   `.env.example` into your `.env` and paste in your key.
+   `.env.example` into your `.env` (including `LLM_BATCH_SIZE=100`) and paste in your key.
 2. Once a day, run your shard (k = 1, 2, 3 or 4):
    ```bash
    .venv/bin/python scripts/stop_reason_llm.py all --shard k/4
    ```
    It stops by itself when the day's quota is used up and continues where it left off next time. A shard takes
-   about 9 days.
-3. After each run, commit and push `data/labels/stop_reasons/llm/all_gemini-2-5-flash_shard-k-of-4.csv`.
+   about 2 days.
+3. After each run, commit and push `data/labels/stop_reasons/llm/all_gemini-2-5-flash_batch-100_shard-k-of-4.csv`.
 
-Don't change the model or `LLM_BATCH_SIZE`: the labels have to come from the same setup notebook 07 validates.
+Don't change the model or `LLM_BATCH_SIZE`: the labels have to come from the same setup notebook 07 validates
+(`sample_gemini-2-5-flash_batch-100.csv`).
 
 ## Leakage warning
 

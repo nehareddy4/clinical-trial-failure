@@ -1,0 +1,8 @@
+item_id,primary_reason,enrollment_problem,note
+SR191,enrollment,Y,"team decision 2026-11-17; votes funding 2, enrollment 2"
+SR193,covid,N,"team decision 2026-11-17; votes covid 2, business 2"
+SR201,other,N,"team decision 2026-11-17; votes operational 2, other 2"
+SR202,business,N,"team decision 2026-11-17; votes other, business, enrollment, operational"
+SR247,other,N,"team decision 2026-11-17; votes operational 2, other 2"
+SR301,efficacy,Y,"team decision 2026-11-17; votes enrollment 2, efficacy 2"
+SR347,other,Y,"team decision 2026-11-17; votes enrollment 2, efficacy 2"

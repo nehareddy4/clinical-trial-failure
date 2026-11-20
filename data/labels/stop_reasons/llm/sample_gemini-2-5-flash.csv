@@ -1,0 +1,506 @@
+id,primary_reason,enrollment_problem,text,model,labeled_at
+SR001,efficacy,N,Obtained results were not good. Protocol was proved ineffective.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR002,efficacy,N,Significant difference at interim analysis,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR003,covid,N,"with 2/3 of the data collected, we had to terminate the study because of COVID19.",gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR004,enrollment,Y,Pfizer released from post-marketing commitment and study terminated because too few patients in the age group; not because of efficacy or safety issues.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR005,operational,N,the study was terminated due to medication supply issue from current manufacturer,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR006,business,N,This is because Medpacto decided to modify its development strategy as the business and development environment changed.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR007,safety,N,Due to DLTs,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR008,covid,N,Exposure of these high-risk patients to clinic or in-person visits during the pandemic presented an unacceptable risk to their health,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR009,unclear,N,Participants no longer receiving intervention,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR010,unclear,N,Completed,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR011,operational,N,Ethics Committee concerns.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR012,covid,Y,"Due to COVID-19 and great challenges during patient enrolment period, current status of this study is far behind the plan. The study cannot be completed according to the plan. Sanofi decides to terminate the study upon comprehensive assessment.",gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR013,safety,N,The study was terminated following review of safety data.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR014,funding,N,STUDY HALTED DUE TO FINANCIAL CONTRAINTS,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR015,enrollment,Y,Problems with the number of participants,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR016,enrollment,Y,Accrual was poor at two other sites and manuscript was published which describing another study which accomplished the goals of this project.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR017,safety,N,Study closed to accrual early due to side effects of study drug.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR018,other,N,"Study is no longer necessary (outmoded, outdated, science has changed)",gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR019,operational,N,PI departure from coordinating institution,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR020,efficacy,N,Participant relapses led to abrupt stop of study.,gemini-2.5-flash,2026-11-17T00:54:31+00:00
+SR021,covid,Y,"Recruitment difficulties (due to Covid), no difference found between study arms",gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR022,operational,N,Feasibility (barriers to implantation within the institution),gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR023,covid,N,In order to ensure patients and research staff safety due to COVID-19 pandemic,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR024,business,N,stopped by the sponsor,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR025,business,N,"The study was not completed, the funding sponsor lost interest.",gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR026,covid,N,Temporary halt due to COVID-19 pandemic,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR027,operational,N,PI no longer at NYUMC,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR028,efficacy,N,"Based on a Simon 2-stage design, this study did not meet response criteria to proceed to stage 2.",gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR029,efficacy,N,Study not progressing toward scientific goals,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR030,business,N,Study terminated on 04Oct2013 for business reasons after being on hold for 10 months. Early termination was not due to safety concerns.,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR031,funding,N,The study was stopped because of loss of funding and no safety issues,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR032,operational,N,The study was stopped after completing 2 cohorts instead of the intended 3 cohorts. This was due to logistical issues and budget-related issues (timing of being able to spend the funds).,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR033,operational,N,former PI left institute,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR034,covid,N,The pandemic interefered with the progresion of study activity.,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR035,operational,N,"Change in staffing structure, no longer fit original study design",gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR036,efficacy,N,Sponsor's decision due to negative result of Phase 3 study TH-CR-406/SARC021,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR037,other,N,Re-initiate a new trial per the discussion with FDA,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR038,enrollment,Y,enrollment pause,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR039,enrollment,Y,not enough particpants,gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR040,business,N,"Sponsor business decision: enrollment closed after the Phase 1 dose escalation, before an MTD was reached. The Phase 2 portion was not conducted.",gemini-2.5-flash,2026-11-17T01:05:14+00:00
+SR041,business,N,Study recruitment was terminated on 14 June 2016 due to a Pfizer business decision. This study was not terminated for reasons of safety.,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR042,business,N,Sponsor decision; not safety related,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR043,business,N,Company decision; No safety or efficacy concerns (see detailed description),gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR044,covid,Y,Covid-19 quarantines and closures prevented recruitment and assessment of participants.,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR045,enrollment,Y,Lack of patient accruals.,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR046,safety,N,Potential AE,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR047,enrollment,Y,Because of low recruitment rates,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR048,business,N,Sponsor's decision,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR049,efficacy,N,Arm C rolled into parallel study; Arms A and B halted for greater efficacy in Arm C,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR050,safety,N,The study terminated for safety reasons.,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR051,enrollment,Y,The surgical team has difficulty to find level 1 and 2 fusions for the study.,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR052,unclear,N,Terminated per PI's request,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR053,operational,N,PI has left UHN. This study is no longer running at UHN.,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR054,efficacy,N,Study reached pre-determined futility criteria following interim analysis. No safety concerns were noted.,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR055,business,N,Business reasons,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR056,funding,Y,Could not continue enrollment due to discontinuation of funding,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR057,covid,Y,"On 3/15/2020 study visits were suspended due to COVID-19 pandemic. With safety concerns surrounding COVID-19 and difficulty recruiting, the investigators decided to close enrollment 10/16/2020 after interim data were reviewed by the DSMB and NIH.",gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR058,safety,N,Unafavourable toxicity profile,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR059,operational,N,Study stopped for procedural difficulties and lack of personnel,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR060,operational,N,change in procedure,gemini-2.5-flash,2026-11-17T01:05:24+00:00
+SR061,business,N,Discontinuation of this study was based on Novartis decision to discontinue development of fingolimod for the treatment of ADON,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR062,efficacy,N,Futility was met.,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR063,efficacy,N,Stop premature due to futility,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR064,business,N,The study was terminated due to a business decision.,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR065,efficacy,N,Lack of efficacy caused enrollment to be stopped at the end of dose escalation,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR066,covid,N,Discontinuing the study because of COVID-19,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR067,funding,N,Budget/Funding,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR068,enrollment,Y,Lack of response to recruitment,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR069,operational,N,Principal Investigator left institution and not enough resources to support at MTF,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR070,unclear,N,The tests have been completed,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR071,enrollment,Y,Due to inclusion problems (not recruting enough participants) recruiting participants has halted prematurely and will not resume.,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR072,covid,N,Temporarily paused due to COVID-19 and expected to resume. This is not a suspension of IRB approval. PI has left the institution.,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR073,enrollment,Y,Poor enrollment,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR074,efficacy,N,The study was terminated prematurely after ad-interim analysis for the primary outcome.,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR075,business,N,"The study was terminated early on July 8, 2016 due to business priorities regarding study execution.",gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR076,operational,N,"On 01 March 2020, the Sponsor decided to place recruitment and dosing of patients on hold following interactions with the French regulatory authority, ANSM and the US clinical hold of another study (POLAR-M).",gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR077,efficacy,N,"Phase I/II study halted as Phase I, Low Response Rate",gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR078,covid,N,Covid interference,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR079,safety,N,Accrual to trial stopped due to high toxicity even at lowest dose of combination treatment. Patients on trial tolerating treatment at time of accrual closure still continued to receive treatment.,gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR080,enrollment,Y,"The patient population in RACU has changed significantly, we can not find potential subjects to recruit. The enrollment rate has reached zero.",gemini-2.5-flash,2026-11-17T01:05:38+00:00
+SR081,safety,N,"The parents of two patients enrolled who died, presented a claim against the hospital and the study was halted.",gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR082,other,Y,Due to the changes of standard of care and the slow recruitment of participants.,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR083,efficacy,N,"Arm ""placement periph iv cath"" COMPLETED - Arm ""blood sampling"" : study will not be performed because of the results of the arm ""placement periph. iv cath""",gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR084,enrollment,Y,No longer enrolling,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR085,enrollment,Y,"The person who was running the study never completed it, as the study never reached the target recruitment levels.",gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR086,enrollment,Y,The reason for early termination is difficulties recruiting that caused a premature ending of financial resources ensuring protected time for research.,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR087,funding,N,Study has been termination early due to financial contraints.,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR088,unclear,N,the end of inclusion period,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR089,business,N,transferred study sponsor,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR090,funding,N,Sponsor funding,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR091,enrollment,Y,Due to lack of enrollment,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR092,operational,N,PI accepted a position at a new Institution and terminated the study at UIC.,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR093,funding,N,Did not receive funding for the trial.,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR094,enrollment,Y,The decision to close the NN2211-3619 trial was based on the very low recruitment rate as well as challenges relating to trial execution and study completion.,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR095,other,N,It was finally decided not to perform the interventional part of the study. Only the questionnaire's part was performed,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR096,covid,N,"Study sites were closed in March 2020, due to COVID-19 and did not re-open; follow-up data were collected for 6 months subsequently of already enrolled subjects",gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR097,business,N,Decision to discontinue product development at this time,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR098,covid,N,Covid19 sanitary crisis,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR099,operational,N,Lack of available time,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR100,efficacy,N,Due low efficacy of FMT in interim analysis.,gemini-2.5-flash,2026-11-17T01:06:05+00:00
+SR101,operational,N,Some sites withdrew because no contract with insulin pump supplier,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR102,enrollment,Y,Target of recruitment not reachable,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR103,business,N,The study was prematurely stopped due to business reasons.,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR104,efficacy,N,The parent trials did not meet the primary endpoints of reduction in motor and phonic tics.,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR105,business,N,Sponsor decision; not due to any safety concerns related to DTX101.,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR106,operational,Y,"Shortages of study drug, difficulty enrolling patients",gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR107,covid,Y,Recruitment complications due to COVID-19,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR108,business,N,Decision to terminate EZH-1401 was solely due to company business decision.,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR109,operational,N,Withdrawal of medication and funding support by Sponsor,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR110,covid,N,Loss of funding due to COVID-19,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR111,efficacy,Y,"Data safety and monitoring board(DSMB) have been performed when half of sample size (SS)have been reached. Recruitment was slower than expected so SS was recalculated. After analysis of data, DSMB recommended to stop study.",gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR112,enrollment,Y,Lack of recruitment,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR113,business,N,Sponsor's discretion to terminate study prematurely for further evaluation.,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR114,enrollment,Y,Unable to recruit sufficient participants,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR115,other,N,Now we use better procedures for the patient instead of nasal catheter for epistaxis. So it would be unethical to use the nasal catheter to complete the trial.,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR116,other,Y,The standard of care for the patient population changed and we were unable to accrue any longer.,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR117,business,N,Company's business decision,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR118,covid,N,COVID shutdown,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR119,covid,Y,Delay in recruitment as per last protocol amendment due to Covid-19,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR120,business,N,Early termination due to business reasons,gemini-2.5-flash,2026-11-17T01:06:28+00:00
+SR121,enrollment,Y,Poor accrual,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR122,covid,N,COVID-19 pandemic,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR123,business,N,"The study was terminated early due to Sponsor decision, closure of this combination therapy program is unrelated to any safety issues, no signals of concern.",gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR124,operational,N,PI left Johns Hopkins University,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR125,efficacy,N,Trial futility,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR126,covid,N,Interruption of COVID 19 pandemic,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR127,enrollment,Y,The study encountered unexpected difficulties in enrolling patients due to requirements for the Informed Consent. 60% of our patients comes from abroad with only one accompanying parent. The rules of our EC require both parents to sign the consent.,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR128,funding,N,Unable to secure funding,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR129,funding,N,Lack of adequate funding,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR130,enrollment,Y,Study terminated by the Sponsor due to slow enrollment,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR131,business,N,The Relamorelin program is being terminated solely based on a business decision.,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR132,unclear,N,Re-evaluate indication with the referring physicians,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR133,covid,N,We completed One group intervention but the COVID Pandemic forced us to pause the research. We have preliminary data from 18 participants.,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR134,covid,Y,COVID-19 pandemic impacted recruitment,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR135,safety,N,Drug toxicity,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR136,covid,Y,Pandemic impacted ability to recruit and enroll,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR137,efficacy,N,Trial met primary efficacy endpoint target. No additional subjects necessary.,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR138,safety,N,Biosense stopped Study enrollment following publications that reported PVAC ablation is linked with a higher incidence of asymptomatic cerebral embolic lesions,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR139,operational,N,Protocol closed to accrual early due to PI retirement.,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR140,funding,N,Financial considerations,gemini-2.5-flash,2026-11-17T01:06:38+00:00
+SR141,operational,N,Unable to get product at this time,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR142,operational,N,Mutual decision of sponsor and investigator due to logistical challenges,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR143,other,N,The institution transitioned from open surgical procedure to Robotic procedure,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR144,enrollment,Y,Study was closed early due to slow enrollment.,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR145,business,N,Sponsor company was acquired and new owner chose not to proceed with clinical study,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR146,enrollment,Y,The number of anticipated participants was not achieved,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR147,enrollment,Y,"Changing parameters in HCV management, resulted in poor recruitment; additionally onset of SARS CoV2 resulted in the cessation of all mobile clinical services.",gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR148,efficacy,N,the efficency is not good enough to enroll more patients,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR149,enrollment,Y,Lack of incorporation with patients,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR150,funding,N,Insufficient funding to continue with study activities,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR151,business,N,company strategic change,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR152,enrollment,Y,"Slow patient enrollment and new molecules for chronic lymphoid leukemia, have importantly reduced the interest of conducting the phase II of this study.",gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR153,enrollment,Y,Lack of time and participation in the study,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR154,covid,Y,It was not possible to continue recruiting due to SARSCov2 pandemia. Results obtained at that time were already published,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR155,business,N,NCI decided to terminate ABTC Consortium due to NCI moving in different direction for Brain Cancer - official close date is 10/31/23,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR156,operational,N,Decommissioned due to not enough staff across the study to adequately support it.,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR157,enrollment,Y,"The laboratory's partner on this study decides to terminate the contract with the CHRU Brest, because of the difficulty of the recruitment.",gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR158,enrollment,Y,Prematurely terminated due to poor accrual,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR159,business,N,development program for filgotinib for participants with psoriatic arthritis has been stopped,gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR160,efficacy,N,"After an interim analysis of the data, it became clear that the imaging results did not correlate to the primary outcome measures in this subset of patients.",gemini-2.5-flash,2026-11-17T01:06:48+00:00
+SR161,enrollment,Y,This study was closed early due to lack of enrollments and insufficient funding.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR162,business,N,Business decision to discontinue product development.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR163,efficacy,N,Decision to terminate development of Gantenerumab for treatment of prodromal/mild/early-stage Alzheimer's disease following results of a pre-planned analysis of the safety and efficacy of Gant in Graduate I\&II (WN29922/WN39658).,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR164,enrollment,Y,Due to slow enrollment the study was stopped prematurely.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR165,business,N,Mode of application to be reconsidered by Sponsor,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR166,operational,N,IRB approval expired.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR167,business,N,change in the development strategy,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR168,operational,N,Drug unavailable,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR169,efficacy,N,Interim analysis showed inadequate efficacy of bifeprunox,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR170,covid,Y,"Due to restrictions imposed by the COVID-19 pandemic and difficulty of partcipants' adhesion, we chose to stop the data collection and suspend the project.",gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR171,operational,N,As a busy MTF we were unable to retain a health care provider with the appropriate expertise to buy-in to this study once the initiating PI left military service.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR172,operational,N,No answer received from the Philippines Food and Drug Administration on protocol amendment issued due to IDMC recommendations. CYD vaccine 3rd dose not given.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR173,operational,N,The study has been terminated because of operational reasons.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR174,safety,N,This study was closed early by the DSMB due to increased toxicity.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR175,enrollment,Y,At the request of the study's funders (NIHR-HTA) the study was terminated early due to poor recruitment in the context of the COVID-19 pandemic and unprecedented pressures faced by the NHS.,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR176,business,N,Business decision not related to patient safety,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR177,covid,Y,Not possible to achieve the anticipated no. of patients due to Covid-19 pandemic,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR178,covid,N,Study terminated due to COVID-19 restrictions,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR179,other,N,"6 patients were recuited. Due to inability of the tracer to detect regions of interest sufficiently, the trial was closed early.",gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR180,covid,N,Due to an atypical health scenario caused by the COVID-19 pandemic,gemini-2.5-flash,2026-11-17T01:07:07+00:00
+SR181,operational,N,organizational difficulties for the collection of adipose tissue and for the supply of the experimental drug,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR182,enrollment,Y,Lack of Accrual and Inadequate Funding,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR183,enrollment,Y,low rate recruitment,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR184,business,N,Pfizer has made an internal business decision to not continue further development of PF-07265807. This decision was not due to major safety concerns or requests from any regulatory authorities.,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR185,funding,N,Due to financial hardships suffered by the stakeholder,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR186,efficacy,N,failure rate 91.1%,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR187,efficacy,N,"Upon interim analysis, sponsor's decision due to absence of demonstration of efficacy.",gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR188,funding,N,Lack of funding required for enrollment to reach statistical significance.,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR189,enrollment,Y,Insufficient enrollment,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR190,efficacy,N,Missing evidence of the effectiveness of the study medication,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR191,enrollment,Y,Incomplete study enrollment prior to depletion of funding,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR192,operational,N,Study was prematurely terminated because of administrative reasons.,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR193,business,N,Sponsor did not want to pursue and COVID 19 delays,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR194,safety,N,high discontinuation rates mainly due to GI tolerability and implementation of risk mitigation plan to address hypersensitivity reactions,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR195,funding,N,There was no funding for the device to be used in the study.,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR196,funding,N,Lake of financing,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR197,safety,N,safety issue observed on another hepatocellular study using OSI906,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR198,enrollment,Y,Unable to recruit the adequate number of subjects,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR199,safety,N,Protocol was stopped due to the safety issue in Global,gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR200,funding,N,"This observational study was stopped after 140 patients were enrolled, no more funds available to continue.",gemini-2.5-flash,2026-11-17T01:07:16+00:00
+SR201,other,N,Change in standard of care,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR202,enrollment,Y,"This study was terminated early due to other competing trials, therefore did not go on to the Phase II portion of the study.",gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR203,funding,N,Terminated due to expiration of funding,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR204,efficacy,N,This was an open label extension for patients completing the REFALS study (3119002; NCT03505021). Study 3119002 showed lack of efficacy of ODM109 so the sponsor decided to terminate this study,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR205,enrollment,Y,Lack of study enrollment,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR206,other,N,End of H1N1 Swine Flu Pandemic,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR207,enrollment,Y,Slow enrollment,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR208,efficacy,N,An endpoint difference between 3 energies was not observed at interim analysis,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR209,other,N,Corticosteroid use approval,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR210,enrollment,Y,Difficulty to recruit patient.,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR211,funding,N,Could not obtain additional funding to continue the research.,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR212,business,N,Study terminated early at the request of Sponsors.,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR213,operational,N,The study has been stopped for logistic reasons not related to the safety or efficacy of the vaccine.,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR214,operational,N,PI leaving institution,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR215,enrollment,Y,"Study stopped for operational futility. Due to very small numbers of subjects, insufficient data was available for results to provide meaningful conclusions.",gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR216,operational,N,PI/Project director no longer at facility,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR217,enrollment,Y,The study was terminated because of slow enrollment. The decision to terminate the trial was not based on any safety or efficacy concerns.,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR218,covid,Y,no patients during covid pandemic,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR219,enrollment,Y,Sponsor decision to discontinue study due to inability to recruit the expected number of subjects within the requisite time period.,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR220,enrollment,Y,Slow enrollment; Lack of support and equipoise,gemini-2.5-flash,2026-11-17T01:07:25+00:00
+SR221,operational,N,Preliminary results were promising when interim analysis performed but terminated due to primary investigators left recruitment site.,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR222,business,N,Drug development withdrawn,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR223,safety,N,Patient Safety Concerns,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR224,operational,N,Personnel changes; insufficient resources to continue,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR225,enrollment,Y,Low enrollment; PI left institution,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR226,efficacy,N,Results showing no effect,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR227,safety,N,Risk to benefit ratio is not acceptable,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR228,business,N,company dissolved,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR229,enrollment,Y,Difficulties patient recruitment,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR230,business,N,Business decision,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR231,other,N,1 Indication for further investigations (brain ultrasound). 2 Change of study design to efficacy study with historical control group.,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR232,operational,N,Principal Investigator has left institution. IND withdrawn.,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR233,enrollment,Y,Low enrollment,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR234,efficacy,N,"The trial was terminated at the planned interim analysis for futility on July 18, 2023.",gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR235,funding,N,Study stopped due to funding limitations,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR236,business,N,Company decision to stop compound development. The decision is not based on any safety or efficacy concerns. It reflects the company strategy for portfolio progression.,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR237,other,N,"Funding received for eventual full trial, and data rolled over into full trial. Full trial registered under NCT06567808.",gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR238,business,N,"Registration of the medicine is no longer being pursued in South Korea, Taiwan or Vietnam",gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR239,enrollment,Y,Very poor recruitment,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR240,efficacy,N,Study was terminated due to lack of efficacy.,gemini-2.5-flash,2026-11-17T01:07:34+00:00
+SR241,covid,N,COVID-19 pandemic imposed restrictions to normal study conduct,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR242,operational,N,Insufficient study support,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR243,enrollment,Y,Low recruitment in spite of strategies implemented,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR244,operational,N,Investigator left instititution,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR245,enrollment,Y,"We were not able to enroll adequate number of participants that met the inclusion/exclusion criteria, and we run out of funding.",gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR246,covid,Y,Challenges with participant recruitment as a result of COVID-19 pandemic,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR247,other,N,"Due to the amended therapy strategies for rectal cancer recently, it was decided not to transfer the study to the phase II part, as superiority over standard chemoradiation and transfer to a new therapy standard are increasingly unlikely.",gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR248,enrollment,Y,Business decision due to enrollment challenges,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR249,business,N,Study terminated 26 June 2015 due to changes in the drug development portfolio. This study was not terminated for reasons of safety and/or efficacy,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR250,enrollment,Y,Futility for enrollment,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR251,efficacy,N,This study was terminated early by the Sponsor based on the interim analysis of Study GA39925 (NCT03558152) that showed low efficacy of UTTR1147A in ulcerative colitis. Development of the drug in this indication has been terminated.,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR252,enrollment,Y,criteria for continuing enrollment in Phase 2 portion was not met,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR253,operational,N,Drug Recall,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR254,enrollment,Y,low inclusion rates,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR255,funding,Y,Lack of funding of the non-commercial sponsor to extend recruitment and reach the target number of patients specified in the protocol.,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR256,covid,N,COVID-19 institutional restrictions on screening colonoscopies,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR257,efficacy,N,As the study did not meet it's primary endpoint a decision was made to terminate the study.,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR258,business,N,GSK decision,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR259,covid,Y,Due to SARS-Cov-2 emergency we were unable to recruit the expected number of children. We will analyze the available data,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR260,enrollment,Y,the study was terminated for patient recruitment difficulty and interim power analysis,gemini-2.5-flash,2026-11-17T01:07:50+00:00
+SR261,funding,N,enrollment closed due to lack of funding,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR262,enrollment,Y,Insufficient enrollment; No safety concerns,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR263,operational,N,Our PI left our institutions as we could not longer continue.,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR264,other,N,Newly reported data at the time indicated that alternative therapies were more effective than CP for early treatment of high-risk patients with COVID-19.,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR265,enrollment,Y,Lack of enrollment secondary to eligibility criteria,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR266,operational,N,study stopped due to the difficulty in patient compliance for follow up visits,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR267,enrollment,Y,Ongoing challenges to successfully recruit the required number of subjects,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR268,enrollment,Y,"The inclusion and exclusion criteria have become very restrictive, resulting in a very limited eligible population",gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR269,business,N,The development was stopped due to company's strategy consideration,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR270,covid,Y,COVID-19 pandemic and patient recruitment issues,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR271,other,N,The PERTH RCT was nested within the MAASTHI birth cohort. PERTH study was stopped as MAASTHI has completed it's recruitment.,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR272,efficacy,N,Terminated early due to low blinded event rate,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR273,enrollment,Y,insufficient recruitment of patients and high costs associated with the purchase and blinding of study medication,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR274,operational,N,This study was stopped because of difficulties of supplying the drug.,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR275,enrollment,Y,Low recruitment,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR276,unclear,N,recommendation by Data Monitoring Committee,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR277,covid,N,Unable to continue to conduct study procedures due to pandemic,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR278,business,N,Zambon corparate has decided not to renew the production of the samples.,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR279,unclear,N,Protocol is completed,gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR280,business,Y,"Enrollment in this study was terminated for business development reasons before completing one third of the expected subject population, no formal statistical testing was performed.",gemini-2.5-flash,2026-11-17T01:08:27+00:00
+SR281,enrollment,Y,It was not possible to recruit and include a sufficient number of patients within the timeframe.,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR282,enrollment,Y,inclusion difficulty,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR283,funding,N,Sponsor funding limitations,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR284,other,N,Study re-design,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR285,efficacy,N,Preliminary results showed no ability to predict pain by measuring hippus with pupillometry,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR286,unclear,N,Terminated due to reasons unrelated to safety,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR287,operational,N,Many patients were lost to follow-up,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR288,efficacy,N,study did not meet pre-specified criteria for continuation following interim futility analysis,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR289,efficacy,N,"Part1,double blind portion of the trial did not meet the primary end points",gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR290,enrollment,Y,Enrollment to the study was terminated on 11Nvo2014 due to slow recruitment. There were no safety or efficacy issues that contributed to this decision.,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR291,operational,N,"After a first stop due to acupuncturists unavailability, the Covid-19 pandemic also impacted on the study time schedule for acupuncture administration and outcomes evaluation.",gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR292,enrollment,Y,Lack of available study participants.,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR293,operational,N,REB decision,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR294,enrollment,Y,Slow recruitment due to strict inclusion/exclusion criteria,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR295,covid,N,Sponsors decision to terminate the study based on the current Covid situation which is preventing completion of study milestone.,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR296,efficacy,N,The study was halted after a Phase 3 study of dimebon failed to show efficacy.,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR297,enrollment,Y,enrollment volume due to placebo arm of trial,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR298,unclear,N,"The enrollment was prematurely terminated on October 15, 2020, with 481 randomized patients. As discussed in the ASAP-TOO Update Meeting held on 16-September-2020 with FDA (Q150603-S001-A005), termination of enrollment was not due to safety concerns",gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR299,safety,N,Due to increased rate of local injection site reactions in the DSJI group.,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR300,enrollment,Y,Study was terminated prior to enrolling protocol target accrual goal due to declining accrual and Data Safety Monitoring Board recommendations.,gemini-2.5-flash,2026-11-17T01:08:45+00:00
+SR301,efficacy,Y,"suspeded due to slow recruitment, terminated due to interim analysis",gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR302,unclear,N,IDMC recommendation,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR303,business,N,Termininated for business reasons,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR304,safety,N,"The sponsor's decision to stop the study follows the DSMB's recommendations (end of enrolment and experimental treatment, post-treatment/end-of-study visit within 3 months of stopping treatment), regarding the benefit-risk balance.",gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR305,enrollment,Y,"'Sponsor decision following recruitment issues, not related to any safety concerns in the study",gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR306,efficacy,N,Lack of efficacy data from the Phase 3 clinical study (AC-054-301; CONSCIOUS-2),gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR307,unclear,N,Terminated by PI,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR308,enrollment,Y,Unable to meet enrollment and follow up criteria,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR309,operational,N,PI left the institution before all data analysis was completed,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR310,enrollment,Y,"The enrollment of this study was slow. With the approval of lenvatinib in HCC,many patients choose the new drug, so subsequent enrollment may be more difficult.",gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR311,operational,N,Study administratively closed out by the Einstein IRB. NO US enrolling sites.,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR312,business,N,Sponsor's business decision,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR313,enrollment,Y,Suboptimal subject recruitment,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR314,funding,N,Combination of insufficient funding and lack of compelling findings,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR315,unclear,N,Principal investigator decided to terminate the study.,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR316,business,N,The Sponsor chose to terminate this study for commercial reasons.,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR317,business,N,AVROBIO has deprioritized its Fabry disease program,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR318,enrollment,Y,Funding withdrawn due to inability to accrue,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR319,funding,N,"Due to the budget issues, the study discontinued at Phase II.",gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR320,unclear,N,Participants are no longer being examined. The results are published 2016 Anticancer Research 36: 6431-6438,gemini-2.5-flash,2026-11-17T01:08:57+00:00
+SR321,operational,N,PI left institution and unable to find new PI,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR322,enrollment,Y,Insufficient recruitment pace,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR323,enrollment,Y,Difficulties for inclusions,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR324,efficacy,N,The VITAL study was terminated due to futility analysis,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR325,enrollment,Y,recruiting too slowly,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR326,operational,N,Stopped in march 2024 because lead investigator left Canada,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR327,business,N,due to business decisions,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR328,operational,N,Funding withdrawn as the principal investigator moved from the USA to the UK,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR329,efficacy,N,High cancellation rate in LH test group in interim analysis,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR330,enrollment,Y,Too few participants,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR331,enrollment,Y,enrollment problem,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR332,enrollment,Y,Poor enrollment and adverse event experiences in the limited population,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR333,operational,N,REB Approval lapsed.,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR334,covid,N,COVID 19 pandemic,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR335,efficacy,N,"An interim analysis was conducted in May-2014. Upon review of the data, the committee recommended study termination due to futility.",gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR336,other,N,Sponsor decision due to commercial availability of ataluren.,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR337,operational,N,"Principal Investigator relocated to Orlando, Florida.",gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR338,efficacy,N,No prolongation,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR339,safety,N,Failure to demonstrate a tolerable dose that had potential for efficacy.,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR340,business,N,Product discontinued in November 2014,gemini-2.5-flash,2026-11-17T01:09:19+00:00
+SR341,operational,N,Study closed by the Einstein IRB,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR342,covid,Y,Poor recruitment/retention due to the pandemic. Data was not analyzed due to early termination.,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR343,enrollment,Y,Slow enrollment and planned change of institution by PI,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR344,enrollment,Y,Due to the very low inlcusion rate and the current COVID-19 pandemic.,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR345,business,N,Business decision non-safety related.,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR346,funding,N,Lack of funding and appropriate staff,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR347,efficacy,Y,"Treatment without success, low enrollment, one serious adverse event",gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR348,operational,N,Optimization of protocol,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR349,enrollment,Y,Slow recruitment,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR350,operational,N,Unable to isolate sufficient cells from the skin biopsy to perform study experiments.,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR351,operational,N,requested by the IRB,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR352,operational,N,Discrepancies in medication orders,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR353,covid,N,Due to the Pandemic and the nature of this study we decided to terminate this study.,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR354,funding,N,Changes in funding status,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR355,business,N,Amended clinical development plan.,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR356,safety,N,Interim analysis showing safety concerns,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR357,efficacy,N,Inclusion stopped at 50% after interim analysis: primary efficacy endpoint not significant,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR358,enrollment,Y,Patient with rare disease,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR359,efficacy,N,didn't reach the primary endpoint,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR360,enrollment,Y,Very low recruitment. During COVID-19 pandemic these are patients of high risk.,gemini-2.5-flash,2026-11-17T01:09:40+00:00
+SR361,unclear,N,Investigator decision to close study,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR362,safety,N,The sponsor finds the risk/benefit analysis unfavorable and has terminated the study.,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR363,funding,N,"Funds for this project have been spent, and it is thereby terminated.",gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR364,operational,N,PI is leaving institution,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR365,business,N,The Sponsor decided to not proceed from SAD to MAD to explore the possibility of further studying PD.,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR366,efficacy,N,The study was terminated early due to the lack of efficacy and the study sponsor's decision to no longer continue the study,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR367,enrollment,Y,difficulties to recruit all the patients,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR368,covid,Y,COVID-19 challenges to recruitment,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR369,unclear,N,Sponsor assessed all endpoints and collected Overall Survival data for another two years following the primary completion date of 03Feb2021.,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR370,operational,N,Departure of the PhD in charge of the study,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR371,enrollment,Y,this trial enroll extremely slow and No funding support,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR372,enrollment,Y,Unable to recruit enough participants.,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR373,enrollment,Y,Lack of accrual,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR374,operational,N,The PI was ended her work in the hospital and no replacement was found.,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR375,enrollment,Y,unable to complete recruitment,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR376,enrollment,Y,"Study population was insufficient to provide an adequate pool of patients. All included patients were treated and followed, but the overall desired sample size was not achieve",gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR377,safety,N,Safety signal,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR378,operational,N,PI has re-located. PI terminated FDA IND # and closed study.,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR379,safety,N,Due to concerns about potential liver safety (See Detailed Description),gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR380,efficacy,N,Closed early for futility.,gemini-2.5-flash,2026-11-17T01:09:58+00:00
+SR381,business,N,"As a result of termination of development of Prosavin, it is no longer possible for Sio to either commence or to continue any related clinical trials.",gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR382,unclear,N,There was no indication that long-term follow-up would differ between any of the studies that have evaluated devices within the 410 Style Matrix.,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR383,enrollment,Y,Challenges with enrollment; primary investigator left the institution,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR384,unclear,N,Significant differences in conversion rate as well as R0 resection rate between the two groups.,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR385,enrollment,Y,The study was halted prematurely due to lack of interested participants.,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR386,enrollment,Y,"difficulty enrollment, no patients received treatment",gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR387,operational,N,Major study protocol changes,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR388,enrollment,Y,Study stopped early due to slow accrual and safety concerns.,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR389,enrollment,Y,Slow accrual and changing treatment landscape,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR390,business,N,The study was terminated early due to Sponsor decision; no safety issues.,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR391,efficacy,N,Conducting an interim analysis that allowed with the number of patients included of 150 to meet the objectives of this research,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR392,funding,N,Budgetary and Timing Constraints,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR393,safety,N,side effects (rash),gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR394,business,N,Manufacturer discontinued support of the study,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR395,enrollment,Y,Could not recruit total numbers needed. PI left institution.,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR396,operational,N,Project terminated due to insufficient resources for recruitment.,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR397,efficacy,N,Randomization was stopped early because a significant beneficial effect of nutritional intervention was found in the interim analysis,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR398,funding,N,There is no longer any funding to support the study,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR399,unclear,N,By recommendation from the Data and safety monitoring board,gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR400,other,N,"The SAKK board decided to prematurely end the life-long follow-up of the trial SAKK 21/12, as 90% of the patients have died.",gemini-2.5-flash,2026-11-17T21:45:32+00:00
+SR401,business,N,The study was terminated for business reasons.,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR402,enrollment,Y,We were not able to recruit enough participants during the funding period.,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR403,enrollment,Y,Recruitment stalled. Study terminated before inclusion of sufficient number of participants included,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR404,other,N,Primary endpoint measure not suitable for evaluation,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR405,operational,N,lack of availability of the study drug,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR406,business,N,"Due to portfolio and logistical issues, this study will not be re-started at the present time. The study is not being terminated for safety reasons.",gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR407,enrollment,Y,Low recruitment rate,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR408,funding,N,Funding withdrawal,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR409,business,N,"Study halted prematurely by sponsor and will not resume, participants are no longer being examined or receiving intervention.",gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR410,efficacy,N,"DMC noted that the primary end point of healed index ulcer at 12 weeks was reached only in 11.5%, whereas a higher figure of 42.5% had been used for the original power calculation, suggesting the trial is significantly underpowered.",gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR411,efficacy,N,Lack of efficacy,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR412,efficacy,N,The study was terminated early due to lack of efficacy and absence of biomarker evidence of MEDI9253's impact on the tumors.,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR413,other,N,The study was terminated before the primary endpoint (determination of MTD) was reached because the OPC form is to be replaced with the newly developed capsule form in all subsequent clinical trials.,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR414,unclear,N,due to lack resources,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR415,enrollment,Y,low participation and retention rates,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR416,enrollment,Y,"We planned to enroll more participants but we could not recruit more participants. In addition, the covid-19 pandemic made the recruitment worse than the previous years.",gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR417,enrollment,Y,Poor recruitment,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR418,business,N,Sponsor decision to terminate the study,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR419,covid,Y,We stopped recruiting having 8 in each intervention group instead of 9 due to recruitment problems due to COVID19 pandemic,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR420,safety,N,Study halted due to adverse events,gemini-2.5-flash,2026-11-17T21:46:43+00:00
+SR421,efficacy,Y,Results of an interim analysis and a hardly ongoing enrolment in the last 10 months in all six participating centres,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR422,business,N,"A business decision was made by Pfizer to terminate the study. Termination was not due to any safety concerns, requests from regulatory authorities, changes to the benefit/risk profile or any new concerns regarding the investigational product.",gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR423,enrollment,Y,Lack of enrollment,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR424,funding,N,Study has been termination early due to financial constraints.,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR425,operational,N,PI left institution prior to completion of study. Data unavailable..,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR426,efficacy,N,The study was stopped due to futility,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR427,covid,Y,"Because patient recruitment was affected by the COVID-19 pandemic, the study sponsor and funding partner halted enrollment at that time to meet contractual obligations",gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR428,efficacy,N,the results of the interim analysis are clear with a significant advantage in terms of PFS in favor of the control arm (Vinblastine alone) over the investigational arm (Vinblastine + Nilotinib).,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR429,operational,N,PI transferred to new institution.,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR430,enrollment,Y,Low accrual,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR431,covid,Y,"Impacted by the COVID-19 pandemic:
+
+* slow recruitment rate
+* cuts in budget for non-COVID-19 related projects",gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR432,funding,N,"To conserve remaining capital, Sponsor decided to terminate the study early.",gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR433,enrollment,Y,Subject withdrew,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR434,operational,N,"The laboratory in which the analyses on nasosinusal polyposis were to be carried out did not want to continue the research on this subject, so it was decided to stop this study prematurely.",gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR435,enrollment,Y,"Inclusion was too slow, a lot of data loss during COVID pandemic",gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR436,enrollment,Y,Funder decision - lack of accrual,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR437,funding,N,Funding cut due to government sequestration,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR438,efficacy,N,Due to interim analysis' results and definitions fixed in protocol,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR439,efficacy,N,"The study was targeted to accrue 130 patients, but closed early for futility.",gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR440,funding,N,No funding obtained. The ABPM machines are being used for another project,gemini-2.5-flash,2026-11-17T21:47:39+00:00
+SR441,operational,N,Issue regarding the stent design,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR442,business,N,Principal Investigator and Study Sponsor decided to terminate the study early,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR443,efficacy,N,Well tolerated but failed to demonstrate significant activity. So it did not meet its primary endpoint or key secondary endpoints.,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR444,enrollment,Y,Focusing on observational cohort study due to limited enrollment in trial,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR445,unclear,N,We are halting enrollment of this study.,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR446,enrollment,Y,Enrollment futility,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR447,operational,N,"Laproscopic procedure not offered at this time; will not be offered for the foreseeable, thus we are unable to randomize participants between the two arms.",gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR448,enrollment,Y,Gilead has made the decision to close the study due to enrollment challenges,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR449,enrollment,Y,Too slow accrual.,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR450,enrollment,Y,"The study was temporarily suspended after a meta-analysis suggesting higher mortality risks among patients treated with Paclitaxel-coated balloons. When the study was open again, no new patient accepted to be included. The study stopped on 18AUG2023.",gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR451,covid,N,Due to COVID there were limitations is performing study activities and it was decided to terminate the study.,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR452,business,N,Alternate development strategy,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR453,efficacy,N,Results of interim efficacy analysis showed results were not promising.,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR454,other,N,We chose to maximize this iterative treatment development study by terminating the pilot RCT in favor of enhancing an initial open trial (increased N 12 to 14),gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR455,enrollment,Y,Due to Negative feasibility assessment of recruiting the planned number of subjects within the study timelines,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR456,business,N,Per sponsor decision to stop the development of the study device,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR457,funding,N,Lack of Funding/ Resident in charge graduated,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR458,other,N,"After completing the part of assessing lactobacilli transfer, it was decided not to proceed further with the masked part of the study.",gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR459,covid,N,Study unable to proceed per protocol due to COVID-19 precautions,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR460,business,N,The Sponsor has discontinued the development of tesetaxel,gemini-2.5-flash,2026-11-17T21:47:52+00:00
+SR461,business,N,Study was terminated for business reasons. The earlier study end is not related to any safety concerns or data issues identified at any site or within the overall study data collected to date.,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR462,operational,N,Lack of faisability,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR463,business,N,The study was terminated as the asset was sold to another company who decided not to pursue this indication with this drug.,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR464,enrollment,Y,Withdrawal of funding by CR UK due to poor recruitment,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR465,enrollment,Y,Insufficient recruitment,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR466,operational,N,"After a reliability pilot, main study stopped due to unrelated clinic closure.",gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR467,covid,N,Due to restrictions to in-person research due to COVID-19,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR468,enrollment,Y,The study was stopped due to lack of inclusions,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR469,safety,N,Field Safety Notice related to potential ventricular oversensing associated to the PhD feature on Paradym ICDs,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR470,business,N,This study was terminated for business reasons.,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR471,business,N,"Phase 1B part was completed with review of DLTs and cumulative safety data by Safety Data Review Committee and identification of a safe RP2D. Post-internal review, sponsor decided to terminate the study, and hence, Phase 2 part was not conducted.",gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR472,enrollment,Y,Slow recruitment compounded by COVID-19,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR473,operational,N,Principal Investigator was deployed overseas,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR474,enrollment,Y,"Poor recruitment, high drop out rate",gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR475,safety,N,The study was terminated due to safety reasons,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR476,enrollment,Y,"Low recruitment in final grant year, halted on-site research due to COVID-19 during NCE year.",gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR477,efficacy,N,Livoletide did not result in a statistically significant improvement in hyperphagia and food-related behaviors,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR478,covid,Y,Due to the health crisis triggered by the COVID-19 pandemic and the consequent sanitary-organizational arrangements set up for its contrast it was necessary to interrupt the study before reaching the established sample size.,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR479,unclear,Y,Contractual/Funding/Accrual,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR480,covid,N,COVID-19 pandemic restrictions,gemini-2.5-flash,2026-11-17T21:48:32+00:00
+SR481,efficacy,N,"There was no evidence of benefit across efficacy endpoints in the randomized trial, 245AS101. Accordingly, Biogen has made the difficult decision to discontinue the BIIB078 program including this open label extension trial, 245AS102.",gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR482,safety,N,concern of side effects,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR483,covid,N,"COVID-19 precluded the study team from being able to complete all follow-up assessments.The study was halted on March 17, 2020 and did not resume.",gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR484,business,N,Terminated by Amgen Limited,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR485,unclear,N,PI requested,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR486,enrollment,Y,Abandoned due to poor recruitment,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR487,covid,Y,Recruitment problems during covid lockdowns resulted in Merck ceasing supply of suvorexant/placebo,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR488,unclear,N,The independent Data Monitoring Committee recommended an early termination.,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR489,efficacy,N,The results are negtive.,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR490,covid,Y,Staffing and budget limitations. Administrative decision to halt enrollment due to coronavirus-19 (COVID) pandemic,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR491,business,N,Sponsor's decision for business reasons,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR492,operational,N,IRB request IRB request,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR493,enrollment,Y,"Premature termination due to lack of inclusion. Behavioral preparation is perceived as too restrictive by patients. Furthermore, the Covid and post-covid period has drastically restricted the possibilities of support for behavioral preparation.",gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR494,enrollment,Y,"Study was terminated with 50% enrollment by the sponsor due to under enrollment into specific diverse racial, ethnic, and sex/gender categories.
+
+https://grants.nih.gov/policy/inclusion/women-and-minorities.htm",gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR495,business,N,"Strategy adjustments, independent of the safety and efficacy of the trial medication",gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR496,enrollment,Y,Recruitment difficulties,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR497,other,N,"change in surgical implant use, loss of subinvestigator",gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR498,safety,N,"In accordance with the protocol, following the occurrence of two SUSARs, the TOTEM trial was stopped early for safety reasons.",gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR499,funding,N,Sponsor terminated study due to financial constraints.,gemini-2.5-flash,2026-11-17T21:49:13+00:00
+SR500,covid,Y,Recruitment terminated prematurely due to SARS-CoV-2 pandemic,gemini-2.5-flash,2026-11-17T21:49:13+00:00
